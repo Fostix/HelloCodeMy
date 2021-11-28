@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task01SquareIsAnSecondNumber\obj\Debug\net6.0\task01SquareIsAnSecondNumber.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task01SquareIsAnSecondNumber\obj\Debug\net6.0\task01SquareIsAnSecondNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task01SquareIsAnSecondNumber\obj\Debug\net6.0\task01SquareIsAnSecondNumber.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task01SquareIsAnSecondNumber\obj\Debug\net6.0\task01SquareIsAnSecondNumber.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task01SquareIsAnSecondNumber\obj\Debug\net6.0\task01SquareIsAnSecondNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task01SquareIsAnSecondNumber\bin\Debug\net6.0\task01SquareIsAnSecondNumber.exe
+D:\GitHub\C# practic\C#_practic\task01SquareIsAnSecondNumber\bin\Debug\net6.0\task01SquareIsAnSecondNumber.deps.json
+D:\GitHub\C# practic\C#_practic\task01SquareIsAnSecondNumber\bin\Debug\net6.0\task01SquareIsAnSecondNumber.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task01SquareIsAnSecondNumber\bin\Debug\net6.0\task01SquareIsAnSecondNumber.dll
+D:\GitHub\C# practic\C#_practic\task01SquareIsAnSecondNumber\bin\Debug\net6.0\ref\task01SquareIsAnSecondNumber.dll
+D:\GitHub\C# practic\C#_practic\task01SquareIsAnSecondNumber\bin\Debug\net6.0\task01SquareIsAnSecondNumber.pdb
+D:\GitHub\C# practic\C#_practic\task01SquareIsAnSecondNumber\obj\Debug\net6.0\task01SquareIsAnSecondNumber.dll
+D:\GitHub\C# practic\C#_practic\task01SquareIsAnSecondNumber\obj\Debug\net6.0\ref\task01SquareIsAnSecondNumber.dll
+D:\GitHub\C# practic\C#_practic\task01SquareIsAnSecondNumber\obj\Debug\net6.0\task01SquareIsAnSecondNumber.pdb
+D:\GitHub\C# practic\C#_practic\task01SquareIsAnSecondNumber\obj\Debug\net6.0\task01SquareIsAnSecondNumber.genruntimeconfig.cache
