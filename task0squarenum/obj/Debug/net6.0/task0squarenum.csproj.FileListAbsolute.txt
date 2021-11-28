@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task0squarenum\bin\Debug\net6.0\task0squarenum.exe
+D:\GitHub\C# practic\C#_practic\task0squarenum\bin\Debug\net6.0\task0squarenum.deps.json
+D:\GitHub\C# practic\C#_practic\task0squarenum\bin\Debug\net6.0\task0squarenum.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task0squarenum\bin\Debug\net6.0\task0squarenum.dll
+D:\GitHub\C# practic\C#_practic\task0squarenum\bin\Debug\net6.0\ref\task0squarenum.dll
+D:\GitHub\C# practic\C#_practic\task0squarenum\bin\Debug\net6.0\task0squarenum.pdb
+D:\GitHub\C# practic\C#_practic\task0squarenum\obj\Debug\net6.0\task0squarenum.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task0squarenum\obj\Debug\net6.0\task0squarenum.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task0squarenum\obj\Debug\net6.0\task0squarenum.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task0squarenum\obj\Debug\net6.0\task0squarenum.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task0squarenum\obj\Debug\net6.0\task0squarenum.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task0squarenum\obj\Debug\net6.0\task0squarenum.dll
+D:\GitHub\C# practic\C#_practic\task0squarenum\obj\Debug\net6.0\ref\task0squarenum.dll
+D:\GitHub\C# practic\C#_practic\task0squarenum\obj\Debug\net6.0\task0squarenum.pdb
+D:\GitHub\C# practic\C#_practic\task0squarenum\obj\Debug\net6.0\task0squarenum.genruntimeconfig.cache
