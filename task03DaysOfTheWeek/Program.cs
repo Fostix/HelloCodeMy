@@ -23,20 +23,3 @@ for (int i = 99; i > numDay; i=-7)
  */
 
 
-
-/* if (numDay < 7)
-{
-    Console.WriteLine(numdDay[numDay]);
-}
-else
-{
-    numDay = numDay - 7;
-    return numdDay;
-}
- */
-
-
-
-
-
-/* Console.Write("and i will write day of the week"); */
