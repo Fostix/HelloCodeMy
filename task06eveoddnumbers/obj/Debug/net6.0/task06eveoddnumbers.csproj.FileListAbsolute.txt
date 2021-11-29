@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task06eveoddnumbers\bin\Debug\net6.0\task06eveoddnumbers.exe
+D:\GitHub\C# practic\C#_practic\task06eveoddnumbers\bin\Debug\net6.0\task06eveoddnumbers.deps.json
+D:\GitHub\C# practic\C#_practic\task06eveoddnumbers\bin\Debug\net6.0\task06eveoddnumbers.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task06eveoddnumbers\bin\Debug\net6.0\task06eveoddnumbers.dll
+D:\GitHub\C# practic\C#_practic\task06eveoddnumbers\bin\Debug\net6.0\ref\task06eveoddnumbers.dll
+D:\GitHub\C# practic\C#_practic\task06eveoddnumbers\bin\Debug\net6.0\task06eveoddnumbers.pdb
+D:\GitHub\C# practic\C#_practic\task06eveoddnumbers\obj\Debug\net6.0\task06eveoddnumbers.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task06eveoddnumbers\obj\Debug\net6.0\task06eveoddnumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task06eveoddnumbers\obj\Debug\net6.0\task06eveoddnumbers.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task06eveoddnumbers\obj\Debug\net6.0\task06eveoddnumbers.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task06eveoddnumbers\obj\Debug\net6.0\task06eveoddnumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task06eveoddnumbers\obj\Debug\net6.0\task06eveoddnumbers.dll
+D:\GitHub\C# practic\C#_practic\task06eveoddnumbers\obj\Debug\net6.0\ref\task06eveoddnumbers.dll
+D:\GitHub\C# practic\C#_practic\task06eveoddnumbers\obj\Debug\net6.0\task06eveoddnumbers.pdb
+D:\GitHub\C# practic\C#_practic\task06eveoddnumbers\obj\Debug\net6.0\task06eveoddnumbers.genruntimeconfig.cache

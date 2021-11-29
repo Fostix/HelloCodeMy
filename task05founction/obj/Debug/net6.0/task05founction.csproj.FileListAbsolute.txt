@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task05founction\bin\Debug\net6.0\task05founction.exe
+D:\GitHub\C# practic\C#_practic\task05founction\bin\Debug\net6.0\task05founction.deps.json
+D:\GitHub\C# practic\C#_practic\task05founction\bin\Debug\net6.0\task05founction.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task05founction\bin\Debug\net6.0\task05founction.dll
+D:\GitHub\C# practic\C#_practic\task05founction\bin\Debug\net6.0\ref\task05founction.dll
+D:\GitHub\C# practic\C#_practic\task05founction\bin\Debug\net6.0\task05founction.pdb
+D:\GitHub\C# practic\C#_practic\task05founction\obj\Debug\net6.0\task05founction.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task05founction\obj\Debug\net6.0\task05founction.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task05founction\obj\Debug\net6.0\task05founction.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task05founction\obj\Debug\net6.0\task05founction.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task05founction\obj\Debug\net6.0\task05founction.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task05founction\obj\Debug\net6.0\task05founction.dll
+D:\GitHub\C# practic\C#_practic\task05founction\obj\Debug\net6.0\ref\task05founction.dll
+D:\GitHub\C# practic\C#_practic\task05founction\obj\Debug\net6.0\task05founction.pdb
+D:\GitHub\C# practic\C#_practic\task05founction\obj\Debug\net6.0\task05founction.genruntimeconfig.cache
