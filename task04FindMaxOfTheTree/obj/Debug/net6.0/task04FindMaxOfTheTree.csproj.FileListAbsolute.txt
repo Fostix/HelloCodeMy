@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task04FindMaxOfTheTree\obj\Debug\net6.0\task04FindMaxOfTheTree.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task04FindMaxOfTheTree\obj\Debug\net6.0\task04FindMaxOfTheTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task04FindMaxOfTheTree\obj\Debug\net6.0\task04FindMaxOfTheTree.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task04FindMaxOfTheTree\obj\Debug\net6.0\task04FindMaxOfTheTree.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task04FindMaxOfTheTree\obj\Debug\net6.0\task04FindMaxOfTheTree.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task04FindMaxOfTheTree\bin\Debug\net6.0\task04FindMaxOfTheTree.exe
+D:\GitHub\C# practic\C#_practic\task04FindMaxOfTheTree\bin\Debug\net6.0\task04FindMaxOfTheTree.deps.json
+D:\GitHub\C# practic\C#_practic\task04FindMaxOfTheTree\bin\Debug\net6.0\task04FindMaxOfTheTree.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task04FindMaxOfTheTree\bin\Debug\net6.0\task04FindMaxOfTheTree.dll
+D:\GitHub\C# practic\C#_practic\task04FindMaxOfTheTree\bin\Debug\net6.0\ref\task04FindMaxOfTheTree.dll
+D:\GitHub\C# practic\C#_practic\task04FindMaxOfTheTree\bin\Debug\net6.0\task04FindMaxOfTheTree.pdb
+D:\GitHub\C# practic\C#_practic\task04FindMaxOfTheTree\obj\Debug\net6.0\task04FindMaxOfTheTree.dll
+D:\GitHub\C# practic\C#_practic\task04FindMaxOfTheTree\obj\Debug\net6.0\ref\task04FindMaxOfTheTree.dll
+D:\GitHub\C# practic\C#_practic\task04FindMaxOfTheTree\obj\Debug\net6.0\task04FindMaxOfTheTree.pdb
+D:\GitHub\C# practic\C#_practic\task04FindMaxOfTheTree\obj\Debug\net6.0\task04FindMaxOfTheTree.genruntimeconfig.cache

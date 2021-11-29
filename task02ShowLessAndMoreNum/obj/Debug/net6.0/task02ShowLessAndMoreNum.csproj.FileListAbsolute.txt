@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task02ShowLessAndMoreNum\bin\Debug\net6.0\task02ShowLessAndMoreNum.exe
+D:\GitHub\C# practic\C#_practic\task02ShowLessAndMoreNum\bin\Debug\net6.0\task02ShowLessAndMoreNum.deps.json
+D:\GitHub\C# practic\C#_practic\task02ShowLessAndMoreNum\bin\Debug\net6.0\task02ShowLessAndMoreNum.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task02ShowLessAndMoreNum\bin\Debug\net6.0\task02ShowLessAndMoreNum.dll
+D:\GitHub\C# practic\C#_practic\task02ShowLessAndMoreNum\bin\Debug\net6.0\ref\task02ShowLessAndMoreNum.dll
+D:\GitHub\C# practic\C#_practic\task02ShowLessAndMoreNum\bin\Debug\net6.0\task02ShowLessAndMoreNum.pdb
+D:\GitHub\C# practic\C#_practic\task02ShowLessAndMoreNum\obj\Debug\net6.0\task02ShowLessAndMoreNum.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task02ShowLessAndMoreNum\obj\Debug\net6.0\task02ShowLessAndMoreNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task02ShowLessAndMoreNum\obj\Debug\net6.0\task02ShowLessAndMoreNum.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task02ShowLessAndMoreNum\obj\Debug\net6.0\task02ShowLessAndMoreNum.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task02ShowLessAndMoreNum\obj\Debug\net6.0\task02ShowLessAndMoreNum.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task02ShowLessAndMoreNum\obj\Debug\net6.0\task02ShowLessAndMoreNum.dll
+D:\GitHub\C# practic\C#_practic\task02ShowLessAndMoreNum\obj\Debug\net6.0\ref\task02ShowLessAndMoreNum.dll
+D:\GitHub\C# practic\C#_practic\task02ShowLessAndMoreNum\obj\Debug\net6.0\task02ShowLessAndMoreNum.pdb
+D:\GitHub\C# practic\C#_practic\task02ShowLessAndMoreNum\obj\Debug\net6.0\task02ShowLessAndMoreNum.genruntimeconfig.cache
