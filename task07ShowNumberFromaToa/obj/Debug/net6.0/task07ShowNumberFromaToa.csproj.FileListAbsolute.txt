@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task07ShowNumberFromaToa\bin\Debug\net6.0\task07ShowNumberFromaToa.exe
+D:\GitHub\C# practic\C#_practic\task07ShowNumberFromaToa\bin\Debug\net6.0\task07ShowNumberFromaToa.deps.json
+D:\GitHub\C# practic\C#_practic\task07ShowNumberFromaToa\bin\Debug\net6.0\task07ShowNumberFromaToa.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task07ShowNumberFromaToa\bin\Debug\net6.0\task07ShowNumberFromaToa.dll
+D:\GitHub\C# practic\C#_practic\task07ShowNumberFromaToa\bin\Debug\net6.0\ref\task07ShowNumberFromaToa.dll
+D:\GitHub\C# practic\C#_practic\task07ShowNumberFromaToa\bin\Debug\net6.0\task07ShowNumberFromaToa.pdb
+D:\GitHub\C# practic\C#_practic\task07ShowNumberFromaToa\obj\Debug\net6.0\task07ShowNumberFromaToa.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task07ShowNumberFromaToa\obj\Debug\net6.0\task07ShowNumberFromaToa.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task07ShowNumberFromaToa\obj\Debug\net6.0\task07ShowNumberFromaToa.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task07ShowNumberFromaToa\obj\Debug\net6.0\task07ShowNumberFromaToa.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task07ShowNumberFromaToa\obj\Debug\net6.0\task07ShowNumberFromaToa.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task07ShowNumberFromaToa\obj\Debug\net6.0\task07ShowNumberFromaToa.dll
+D:\GitHub\C# practic\C#_practic\task07ShowNumberFromaToa\obj\Debug\net6.0\ref\task07ShowNumberFromaToa.dll
+D:\GitHub\C# practic\C#_practic\task07ShowNumberFromaToa\obj\Debug\net6.0\task07ShowNumberFromaToa.pdb
+D:\GitHub\C# practic\C#_practic\task07ShowNumberFromaToa\obj\Debug\net6.0\task07ShowNumberFromaToa.genruntimeconfig.cache
