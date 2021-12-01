@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task11ShowTheGreatestNumber\bin\Debug\net6.0\task11ShowTheGreatestNumber.exe
+D:\GitHub\C# practic\C#_practic\task11ShowTheGreatestNumber\bin\Debug\net6.0\task11ShowTheGreatestNumber.deps.json
+D:\GitHub\C# practic\C#_practic\task11ShowTheGreatestNumber\bin\Debug\net6.0\task11ShowTheGreatestNumber.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task11ShowTheGreatestNumber\bin\Debug\net6.0\task11ShowTheGreatestNumber.dll
+D:\GitHub\C# practic\C#_practic\task11ShowTheGreatestNumber\bin\Debug\net6.0\ref\task11ShowTheGreatestNumber.dll
+D:\GitHub\C# practic\C#_practic\task11ShowTheGreatestNumber\bin\Debug\net6.0\task11ShowTheGreatestNumber.pdb
+D:\GitHub\C# practic\C#_practic\task11ShowTheGreatestNumber\obj\Debug\net6.0\task11ShowTheGreatestNumber.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task11ShowTheGreatestNumber\obj\Debug\net6.0\task11ShowTheGreatestNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task11ShowTheGreatestNumber\obj\Debug\net6.0\task11ShowTheGreatestNumber.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task11ShowTheGreatestNumber\obj\Debug\net6.0\task11ShowTheGreatestNumber.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task11ShowTheGreatestNumber\obj\Debug\net6.0\task11ShowTheGreatestNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task11ShowTheGreatestNumber\obj\Debug\net6.0\task11ShowTheGreatestNumber.dll
+D:\GitHub\C# practic\C#_practic\task11ShowTheGreatestNumber\obj\Debug\net6.0\ref\task11ShowTheGreatestNumber.dll
+D:\GitHub\C# practic\C#_practic\task11ShowTheGreatestNumber\obj\Debug\net6.0\task11ShowTheGreatestNumber.pdb
+D:\GitHub\C# practic\C#_practic\task11ShowTheGreatestNumber\obj\Debug\net6.0\task11ShowTheGreatestNumber.genruntimeconfig.cache

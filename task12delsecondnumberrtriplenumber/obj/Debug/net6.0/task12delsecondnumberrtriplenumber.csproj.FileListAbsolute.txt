@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task12delsecondnumberrtriplenumber\bin\Debug\net6.0\task12delsecondnumberrtriplenumber.exe
+D:\GitHub\C# practic\C#_practic\task12delsecondnumberrtriplenumber\bin\Debug\net6.0\task12delsecondnumberrtriplenumber.deps.json
+D:\GitHub\C# practic\C#_practic\task12delsecondnumberrtriplenumber\bin\Debug\net6.0\task12delsecondnumberrtriplenumber.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task12delsecondnumberrtriplenumber\bin\Debug\net6.0\task12delsecondnumberrtriplenumber.dll
+D:\GitHub\C# practic\C#_practic\task12delsecondnumberrtriplenumber\bin\Debug\net6.0\ref\task12delsecondnumberrtriplenumber.dll
+D:\GitHub\C# practic\C#_practic\task12delsecondnumberrtriplenumber\bin\Debug\net6.0\task12delsecondnumberrtriplenumber.pdb
+D:\GitHub\C# practic\C#_practic\task12delsecondnumberrtriplenumber\obj\Debug\net6.0\task12delsecondnumberrtriplenumber.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task12delsecondnumberrtriplenumber\obj\Debug\net6.0\task12delsecondnumberrtriplenumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task12delsecondnumberrtriplenumber\obj\Debug\net6.0\task12delsecondnumberrtriplenumber.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task12delsecondnumberrtriplenumber\obj\Debug\net6.0\task12delsecondnumberrtriplenumber.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task12delsecondnumberrtriplenumber\obj\Debug\net6.0\task12delsecondnumberrtriplenumber.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task12delsecondnumberrtriplenumber\obj\Debug\net6.0\task12delsecondnumberrtriplenumber.dll
+D:\GitHub\C# practic\C#_practic\task12delsecondnumberrtriplenumber\obj\Debug\net6.0\ref\task12delsecondnumberrtriplenumber.dll
+D:\GitHub\C# practic\C#_practic\task12delsecondnumberrtriplenumber\obj\Debug\net6.0\task12delsecondnumberrtriplenumber.pdb
+D:\GitHub\C# practic\C#_practic\task12delsecondnumberrtriplenumber\obj\Debug\net6.0\task12delsecondnumberrtriplenumber.genruntimeconfig.cache
