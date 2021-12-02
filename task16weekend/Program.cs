@@ -10,13 +10,15 @@ if (Day < 32)
     while (Day > 6)
     {
         Day = Day - 7;
+        if (Day > 4)
+        {
+            Console.WriteLine($"Day weekend: {arrayD[Day]}");
+        }
     }
-    if (Day > 4)
+    if (Day < 5)
     {
-        Console.WriteLine($"Day weekend: {arrayD[Day]}");
-        
+        Console.WriteLine($"Day: {arrayD[Day]}");
     }
-    Console.WriteLine($"Day: {arrayD[Day]}");
 }
 else
 {
