@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task16weekend\bin\Debug\net6.0\task16weekend.exe
+D:\GitHub\C# practic\C#_practic\task16weekend\bin\Debug\net6.0\task16weekend.deps.json
+D:\GitHub\C# practic\C#_practic\task16weekend\bin\Debug\net6.0\task16weekend.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task16weekend\bin\Debug\net6.0\task16weekend.dll
+D:\GitHub\C# practic\C#_practic\task16weekend\bin\Debug\net6.0\ref\task16weekend.dll
+D:\GitHub\C# practic\C#_practic\task16weekend\bin\Debug\net6.0\task16weekend.pdb
+D:\GitHub\C# practic\C#_practic\task16weekend\obj\Debug\net6.0\task16weekend.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task16weekend\obj\Debug\net6.0\task16weekend.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task16weekend\obj\Debug\net6.0\task16weekend.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task16weekend\obj\Debug\net6.0\task16weekend.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task16weekend\obj\Debug\net6.0\task16weekend.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task16weekend\obj\Debug\net6.0\task16weekend.dll
+D:\GitHub\C# practic\C#_practic\task16weekend\obj\Debug\net6.0\ref\task16weekend.dll
+D:\GitHub\C# practic\C#_practic\task16weekend\obj\Debug\net6.0\task16weekend.pdb
+D:\GitHub\C# practic\C#_practic\task16weekend\obj\Debug\net6.0\task16weekend.genruntimeconfig.cache

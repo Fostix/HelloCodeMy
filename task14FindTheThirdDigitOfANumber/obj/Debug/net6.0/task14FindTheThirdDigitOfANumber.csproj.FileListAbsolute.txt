@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task14FindTheThirdDigitOfANumber\bin\Debug\net6.0\task14FindTheThirdDigitOfANumber.exe
+D:\GitHub\C# practic\C#_practic\task14FindTheThirdDigitOfANumber\bin\Debug\net6.0\task14FindTheThirdDigitOfANumber.deps.json
+D:\GitHub\C# practic\C#_practic\task14FindTheThirdDigitOfANumber\bin\Debug\net6.0\task14FindTheThirdDigitOfANumber.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task14FindTheThirdDigitOfANumber\bin\Debug\net6.0\task14FindTheThirdDigitOfANumber.dll
+D:\GitHub\C# practic\C#_practic\task14FindTheThirdDigitOfANumber\bin\Debug\net6.0\ref\task14FindTheThirdDigitOfANumber.dll
+D:\GitHub\C# practic\C#_practic\task14FindTheThirdDigitOfANumber\bin\Debug\net6.0\task14FindTheThirdDigitOfANumber.pdb
+D:\GitHub\C# practic\C#_practic\task14FindTheThirdDigitOfANumber\obj\Debug\net6.0\task14FindTheThirdDigitOfANumber.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task14FindTheThirdDigitOfANumber\obj\Debug\net6.0\task14FindTheThirdDigitOfANumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task14FindTheThirdDigitOfANumber\obj\Debug\net6.0\task14FindTheThirdDigitOfANumber.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task14FindTheThirdDigitOfANumber\obj\Debug\net6.0\task14FindTheThirdDigitOfANumber.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task14FindTheThirdDigitOfANumber\obj\Debug\net6.0\task14FindTheThirdDigitOfANumber.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task14FindTheThirdDigitOfANumber\obj\Debug\net6.0\task14FindTheThirdDigitOfANumber.dll
+D:\GitHub\C# practic\C#_practic\task14FindTheThirdDigitOfANumber\obj\Debug\net6.0\ref\task14FindTheThirdDigitOfANumber.dll
+D:\GitHub\C# practic\C#_practic\task14FindTheThirdDigitOfANumber\obj\Debug\net6.0\task14FindTheThirdDigitOfANumber.pdb
+D:\GitHub\C# practic\C#_practic\task14FindTheThirdDigitOfANumber\obj\Debug\net6.0\task14FindTheThirdDigitOfANumber.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task15Is7And23Divisible\bin\Debug\net6.0\task15Is7And23Divisible.exe
+D:\GitHub\C# practic\C#_practic\task15Is7And23Divisible\bin\Debug\net6.0\task15Is7And23Divisible.deps.json
+D:\GitHub\C# practic\C#_practic\task15Is7And23Divisible\bin\Debug\net6.0\task15Is7And23Divisible.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task15Is7And23Divisible\bin\Debug\net6.0\task15Is7And23Divisible.dll
+D:\GitHub\C# practic\C#_practic\task15Is7And23Divisible\bin\Debug\net6.0\ref\task15Is7And23Divisible.dll
+D:\GitHub\C# practic\C#_practic\task15Is7And23Divisible\bin\Debug\net6.0\task15Is7And23Divisible.pdb
+D:\GitHub\C# practic\C#_practic\task15Is7And23Divisible\obj\Debug\net6.0\task15Is7And23Divisible.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task15Is7And23Divisible\obj\Debug\net6.0\task15Is7And23Divisible.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task15Is7And23Divisible\obj\Debug\net6.0\task15Is7And23Divisible.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task15Is7And23Divisible\obj\Debug\net6.0\task15Is7And23Divisible.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task15Is7And23Divisible\obj\Debug\net6.0\task15Is7And23Divisible.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task15Is7And23Divisible\obj\Debug\net6.0\task15Is7And23Divisible.dll
+D:\GitHub\C# practic\C#_practic\task15Is7And23Divisible\obj\Debug\net6.0\ref\task15Is7And23Divisible.dll
+D:\GitHub\C# practic\C#_practic\task15Is7And23Divisible\obj\Debug\net6.0\task15Is7And23Divisible.pdb
+D:\GitHub\C# practic\C#_practic\task15Is7And23Divisible\obj\Debug\net6.0\task15Is7And23Divisible.genruntimeconfig.cache

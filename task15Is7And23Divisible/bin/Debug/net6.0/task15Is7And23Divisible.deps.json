@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task15Is7And23Divisible/1.0.0": {
+        "runtime": {
+          "task15Is7And23Divisible.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task15Is7And23Divisible/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
