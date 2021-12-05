@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task21polindrom\obj\Debug\net6.0\task21polindrom.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task21polindrom\obj\Debug\net6.0\task21polindrom.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task21polindrom\obj\Debug\net6.0\task21polindrom.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task21polindrom\obj\Debug\net6.0\task21polindrom.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task21polindrom\obj\Debug\net6.0\task21polindrom.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task21polindrom\bin\Debug\net6.0\task21polindrom.exe
+D:\GitHub\C# practic\C#_practic\task21polindrom\bin\Debug\net6.0\task21polindrom.deps.json
+D:\GitHub\C# practic\C#_practic\task21polindrom\bin\Debug\net6.0\task21polindrom.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task21polindrom\bin\Debug\net6.0\task21polindrom.dll
+D:\GitHub\C# practic\C#_practic\task21polindrom\bin\Debug\net6.0\ref\task21polindrom.dll
+D:\GitHub\C# practic\C#_practic\task21polindrom\bin\Debug\net6.0\task21polindrom.pdb
+D:\GitHub\C# practic\C#_practic\task21polindrom\obj\Debug\net6.0\task21polindrom.dll
+D:\GitHub\C# practic\C#_practic\task21polindrom\obj\Debug\net6.0\ref\task21polindrom.dll
+D:\GitHub\C# practic\C#_practic\task21polindrom\obj\Debug\net6.0\task21polindrom.pdb
+D:\GitHub\C# practic\C#_practic\task21polindrom\obj\Debug\net6.0\task21polindrom.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task20range\bin\Debug\net6.0\task20range.exe
+D:\GitHub\C# practic\C#_practic\task20range\bin\Debug\net6.0\task20range.deps.json
+D:\GitHub\C# practic\C#_practic\task20range\bin\Debug\net6.0\task20range.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task20range\bin\Debug\net6.0\task20range.dll
+D:\GitHub\C# practic\C#_practic\task20range\bin\Debug\net6.0\ref\task20range.dll
+D:\GitHub\C# practic\C#_practic\task20range\bin\Debug\net6.0\task20range.pdb
+D:\GitHub\C# practic\C#_practic\task20range\obj\Debug\net6.0\task20range.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task20range\obj\Debug\net6.0\task20range.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task20range\obj\Debug\net6.0\task20range.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task20range\obj\Debug\net6.0\task20range.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task20range\obj\Debug\net6.0\task20range.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task20range\obj\Debug\net6.0\task20range.dll
+D:\GitHub\C# practic\C#_practic\task20range\obj\Debug\net6.0\ref\task20range.dll
+D:\GitHub\C# practic\C#_practic\task20range\obj\Debug\net6.0\task20range.pdb
+D:\GitHub\C# practic\C#_practic\task20range\obj\Debug\net6.0\task20range.genruntimeconfig.cache

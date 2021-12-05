@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task19coordinates\bin\Debug\net6.0\task19coordinates.exe
+D:\GitHub\C# practic\C#_practic\task19coordinates\bin\Debug\net6.0\task19coordinates.deps.json
+D:\GitHub\C# practic\C#_practic\task19coordinates\bin\Debug\net6.0\task19coordinates.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task19coordinates\bin\Debug\net6.0\task19coordinates.dll
+D:\GitHub\C# practic\C#_practic\task19coordinates\bin\Debug\net6.0\ref\task19coordinates.dll
+D:\GitHub\C# practic\C#_practic\task19coordinates\bin\Debug\net6.0\task19coordinates.pdb
+D:\GitHub\C# practic\C#_practic\task19coordinates\obj\Debug\net6.0\task19coordinates.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task19coordinates\obj\Debug\net6.0\task19coordinates.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task19coordinates\obj\Debug\net6.0\task19coordinates.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task19coordinates\obj\Debug\net6.0\task19coordinates.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task19coordinates\obj\Debug\net6.0\task19coordinates.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task19coordinates\obj\Debug\net6.0\task19coordinates.dll
+D:\GitHub\C# practic\C#_practic\task19coordinates\obj\Debug\net6.0\ref\task19coordinates.dll
+D:\GitHub\C# practic\C#_practic\task19coordinates\obj\Debug\net6.0\task19coordinates.pdb
+D:\GitHub\C# practic\C#_practic\task19coordinates\obj\Debug\net6.0\task19coordinates.genruntimeconfig.cache

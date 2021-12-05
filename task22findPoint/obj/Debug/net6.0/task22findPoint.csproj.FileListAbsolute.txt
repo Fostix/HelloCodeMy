@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task22findPoint\bin\Debug\net6.0\task22findPoint.exe
+D:\GitHub\C# practic\C#_practic\task22findPoint\bin\Debug\net6.0\task22findPoint.deps.json
+D:\GitHub\C# practic\C#_practic\task22findPoint\bin\Debug\net6.0\task22findPoint.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task22findPoint\bin\Debug\net6.0\task22findPoint.dll
+D:\GitHub\C# practic\C#_practic\task22findPoint\bin\Debug\net6.0\ref\task22findPoint.dll
+D:\GitHub\C# practic\C#_practic\task22findPoint\bin\Debug\net6.0\task22findPoint.pdb
+D:\GitHub\C# practic\C#_practic\task22findPoint\obj\Debug\net6.0\task22findPoint.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task22findPoint\obj\Debug\net6.0\task22findPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task22findPoint\obj\Debug\net6.0\task22findPoint.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task22findPoint\obj\Debug\net6.0\task22findPoint.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task22findPoint\obj\Debug\net6.0\task22findPoint.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task22findPoint\obj\Debug\net6.0\task22findPoint.dll
+D:\GitHub\C# practic\C#_practic\task22findPoint\obj\Debug\net6.0\ref\task22findPoint.dll
+D:\GitHub\C# practic\C#_practic\task22findPoint\obj\Debug\net6.0\task22findPoint.pdb
+D:\GitHub\C# practic\C#_practic\task22findPoint\obj\Debug\net6.0\task22findPoint.genruntimeconfig.cache

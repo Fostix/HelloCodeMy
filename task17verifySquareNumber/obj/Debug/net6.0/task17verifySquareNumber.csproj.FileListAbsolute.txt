@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task17verifySquareNumber\bin\Debug\net6.0\task17verifySquareNumber.exe
+D:\GitHub\C# practic\C#_practic\task17verifySquareNumber\bin\Debug\net6.0\task17verifySquareNumber.deps.json
+D:\GitHub\C# practic\C#_practic\task17verifySquareNumber\bin\Debug\net6.0\task17verifySquareNumber.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task17verifySquareNumber\bin\Debug\net6.0\task17verifySquareNumber.dll
+D:\GitHub\C# practic\C#_practic\task17verifySquareNumber\bin\Debug\net6.0\ref\task17verifySquareNumber.dll
+D:\GitHub\C# practic\C#_practic\task17verifySquareNumber\bin\Debug\net6.0\task17verifySquareNumber.pdb
+D:\GitHub\C# practic\C#_practic\task17verifySquareNumber\obj\Debug\net6.0\task17verifySquareNumber.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task17verifySquareNumber\obj\Debug\net6.0\task17verifySquareNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task17verifySquareNumber\obj\Debug\net6.0\task17verifySquareNumber.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task17verifySquareNumber\obj\Debug\net6.0\task17verifySquareNumber.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task17verifySquareNumber\obj\Debug\net6.0\task17verifySquareNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task17verifySquareNumber\obj\Debug\net6.0\task17verifySquareNumber.dll
+D:\GitHub\C# practic\C#_practic\task17verifySquareNumber\obj\Debug\net6.0\ref\task17verifySquareNumber.dll
+D:\GitHub\C# practic\C#_practic\task17verifySquareNumber\obj\Debug\net6.0\task17verifySquareNumber.pdb
+D:\GitHub\C# practic\C#_practic\task17verifySquareNumber\obj\Debug\net6.0\task17verifySquareNumber.genruntimeconfig.cache
