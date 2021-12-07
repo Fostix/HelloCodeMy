@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task24findcubenum\bin\Debug\net6.0\task24findcubenum.exe
+D:\GitHub\C# practic\C#_practic\task24findcubenum\bin\Debug\net6.0\task24findcubenum.deps.json
+D:\GitHub\C# practic\C#_practic\task24findcubenum\bin\Debug\net6.0\task24findcubenum.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task24findcubenum\bin\Debug\net6.0\task24findcubenum.dll
+D:\GitHub\C# practic\C#_practic\task24findcubenum\bin\Debug\net6.0\ref\task24findcubenum.dll
+D:\GitHub\C# practic\C#_practic\task24findcubenum\bin\Debug\net6.0\task24findcubenum.pdb
+D:\GitHub\C# practic\C#_practic\task24findcubenum\obj\Debug\net6.0\task24findcubenum.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task24findcubenum\obj\Debug\net6.0\task24findcubenum.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task24findcubenum\obj\Debug\net6.0\task24findcubenum.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task24findcubenum\obj\Debug\net6.0\task24findcubenum.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task24findcubenum\obj\Debug\net6.0\task24findcubenum.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task24findcubenum\obj\Debug\net6.0\task24findcubenum.dll
+D:\GitHub\C# practic\C#_practic\task24findcubenum\obj\Debug\net6.0\ref\task24findcubenum.dll
+D:\GitHub\C# practic\C#_practic\task24findcubenum\obj\Debug\net6.0\task24findcubenum.pdb
+D:\GitHub\C# practic\C#_practic\task24findcubenum\obj\Debug\net6.0\task24findcubenum.genruntimeconfig.cache
