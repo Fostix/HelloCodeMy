@@ -6,7 +6,7 @@ Console.Write("enter secon number: ");
 int secondN = int.Parse(Console.ReadLine());
 if (secondN == firstN * firstN ||firstN == secondN * secondN)
 {
-    Console.WriteLine("является");
+    Console.WriteLine("true square");
 }
 else
 {

@@ -1,31 +1,5 @@
 ﻿//Проверить истинность утверждения ¬(X ⋁ Y) = ¬X ⋀ ¬Y
 
-/* Console.Write("Enter first: ");
-bool X = bool.Parse(Console.ReadLine());
-Console.Write("Enter number: ");
-bool Y = bool.Parse(Console.ReadLine());
-
-if (!(X || Y) == !X && !Y)
-{
-    Console.WriteLine("true");
-}
-else
-{
-    Console.WriteLine("false");
-} */
-
-/* bool testb()
-{
-    Console.Write("Enter first: ");
-    bool X = bool.Parse(Console.ReadLine());
-    Console.Write("Enter number: ");
-    bool Y = bool.Parse(Console.ReadLine());
-    return !(X || Y) == !X && !Y;
-}
-
-bool test = testb();
-Console.WriteLine(test); */
-
 bool[] all = {true, false};
 bool result = true;
 
@@ -53,4 +27,34 @@ if(result)
 else
 {
     Console.WriteLine($"false");
+} 
+
+
+
+// TODO: были мой варианты
+
+/* Console.Write("Enter first: ");
+bool X = bool.Parse(Console.ReadLine());
+Console.Write("Enter number: ");
+bool Y = bool.Parse(Console.ReadLine());
+
+if (!(X || Y) == !X && !Y)
+{
+    Console.WriteLine("true");
 }
+else
+{
+    Console.WriteLine("false");
+}  */
+
+/* bool testb()
+{
+    Console.Write("Enter first: ");
+    bool X = bool.Parse(Console.ReadLine());
+    Console.Write("Enter number: ");
+    bool Y = bool.Parse(Console.ReadLine());
+    return !(X || Y) == !X && !Y;
+}
+
+bool test = testb();
+Console.WriteLine(test); */
