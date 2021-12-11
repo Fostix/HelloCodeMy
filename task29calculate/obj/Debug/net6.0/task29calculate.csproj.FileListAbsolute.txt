@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task29calculate\obj\Debug\net6.0\task29calculate.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task29calculate\obj\Debug\net6.0\task29calculate.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task29calculate\obj\Debug\net6.0\task29calculate.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task29calculate\obj\Debug\net6.0\task29calculate.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task29calculate\obj\Debug\net6.0\task29calculate.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task29calculate\bin\Debug\net6.0\task29calculate.exe
+D:\GitHub\C# practic\C#_practic\task29calculate\bin\Debug\net6.0\task29calculate.deps.json
+D:\GitHub\C# practic\C#_practic\task29calculate\bin\Debug\net6.0\task29calculate.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task29calculate\bin\Debug\net6.0\task29calculate.dll
+D:\GitHub\C# practic\C#_practic\task29calculate\bin\Debug\net6.0\ref\task29calculate.dll
+D:\GitHub\C# practic\C#_practic\task29calculate\bin\Debug\net6.0\task29calculate.pdb
+D:\GitHub\C# practic\C#_practic\task29calculate\obj\Debug\net6.0\task29calculate.dll
+D:\GitHub\C# practic\C#_practic\task29calculate\obj\Debug\net6.0\ref\task29calculate.dll
+D:\GitHub\C# practic\C#_practic\task29calculate\obj\Debug\net6.0\task29calculate.pdb
+D:\GitHub\C# practic\C#_practic\task29calculate\obj\Debug\net6.0\task29calculate.genruntimeconfig.cache

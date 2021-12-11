@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task30cubeevenumber\obj\Debug\net6.0\task30cubeevenumber.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task30cubeevenumber\obj\Debug\net6.0\task30cubeevenumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task30cubeevenumber\obj\Debug\net6.0\task30cubeevenumber.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task30cubeevenumber\obj\Debug\net6.0\task30cubeevenumber.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task30cubeevenumber\obj\Debug\net6.0\task30cubeevenumber.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task30cubeevenumber\bin\Debug\net6.0\task30cubeevenumber.exe
+D:\GitHub\C# practic\C#_practic\task30cubeevenumber\bin\Debug\net6.0\task30cubeevenumber.deps.json
+D:\GitHub\C# practic\C#_practic\task30cubeevenumber\bin\Debug\net6.0\task30cubeevenumber.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task30cubeevenumber\bin\Debug\net6.0\task30cubeevenumber.dll
+D:\GitHub\C# practic\C#_practic\task30cubeevenumber\bin\Debug\net6.0\ref\task30cubeevenumber.dll
+D:\GitHub\C# practic\C#_practic\task30cubeevenumber\bin\Debug\net6.0\task30cubeevenumber.pdb
+D:\GitHub\C# practic\C#_practic\task30cubeevenumber\obj\Debug\net6.0\task30cubeevenumber.dll
+D:\GitHub\C# practic\C#_practic\task30cubeevenumber\obj\Debug\net6.0\ref\task30cubeevenumber.dll
+D:\GitHub\C# practic\C#_practic\task30cubeevenumber\obj\Debug\net6.0\task30cubeevenumber.pdb
+D:\GitHub\C# practic\C#_practic\task30cubeevenumber\obj\Debug\net6.0\task30cubeevenumber.genruntimeconfig.cache

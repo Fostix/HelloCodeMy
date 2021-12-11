@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task28sumOfNumbersInANumber\bin\Debug\net6.0\task28sumOfNumbersInANumber.exe
+D:\GitHub\C# practic\C#_practic\task28sumOfNumbersInANumber\bin\Debug\net6.0\task28sumOfNumbersInANumber.deps.json
+D:\GitHub\C# practic\C#_practic\task28sumOfNumbersInANumber\bin\Debug\net6.0\task28sumOfNumbersInANumber.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task28sumOfNumbersInANumber\bin\Debug\net6.0\task28sumOfNumbersInANumber.dll
+D:\GitHub\C# practic\C#_practic\task28sumOfNumbersInANumber\bin\Debug\net6.0\ref\task28sumOfNumbersInANumber.dll
+D:\GitHub\C# practic\C#_practic\task28sumOfNumbersInANumber\bin\Debug\net6.0\task28sumOfNumbersInANumber.pdb
+D:\GitHub\C# practic\C#_practic\task28sumOfNumbersInANumber\obj\Debug\net6.0\task28sumOfNumbersInANumber.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task28sumOfNumbersInANumber\obj\Debug\net6.0\task28sumOfNumbersInANumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task28sumOfNumbersInANumber\obj\Debug\net6.0\task28sumOfNumbersInANumber.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task28sumOfNumbersInANumber\obj\Debug\net6.0\task28sumOfNumbersInANumber.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task28sumOfNumbersInANumber\obj\Debug\net6.0\task28sumOfNumbersInANumber.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task28sumOfNumbersInANumber\obj\Debug\net6.0\task28sumOfNumbersInANumber.dll
+D:\GitHub\C# practic\C#_practic\task28sumOfNumbersInANumber\obj\Debug\net6.0\ref\task28sumOfNumbersInANumber.dll
+D:\GitHub\C# practic\C#_practic\task28sumOfNumbersInANumber\obj\Debug\net6.0\task28sumOfNumbersInANumber.pdb
+D:\GitHub\C# practic\C#_practic\task28sumOfNumbersInANumber\obj\Debug\net6.0\task28sumOfNumbersInANumber.genruntimeconfig.cache
