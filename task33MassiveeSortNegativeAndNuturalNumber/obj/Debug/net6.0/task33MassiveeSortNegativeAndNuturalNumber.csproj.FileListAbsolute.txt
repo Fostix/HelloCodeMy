@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task33MassiveeSortNegativeAndNuturalNumber\obj\Debug\net6.0\task33MassiveeSortNegativeAndNuturalNumber.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task33MassiveeSortNegativeAndNuturalNumber\obj\Debug\net6.0\task33MassiveeSortNegativeAndNuturalNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task33MassiveeSortNegativeAndNuturalNumber\obj\Debug\net6.0\task33MassiveeSortNegativeAndNuturalNumber.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task33MassiveeSortNegativeAndNuturalNumber\obj\Debug\net6.0\task33MassiveeSortNegativeAndNuturalNumber.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task33MassiveeSortNegativeAndNuturalNumber\obj\Debug\net6.0\task33MassiveeSortNegativeAndNuturalNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task33MassiveeSortNegativeAndNuturalNumber\bin\Debug\net6.0\task33MassiveeSortNegativeAndNuturalNumber.exe
+D:\GitHub\C# practic\C#_practic\task33MassiveeSortNegativeAndNuturalNumber\bin\Debug\net6.0\task33MassiveeSortNegativeAndNuturalNumber.deps.json
+D:\GitHub\C# practic\C#_practic\task33MassiveeSortNegativeAndNuturalNumber\bin\Debug\net6.0\task33MassiveeSortNegativeAndNuturalNumber.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task33MassiveeSortNegativeAndNuturalNumber\bin\Debug\net6.0\task33MassiveeSortNegativeAndNuturalNumber.dll
+D:\GitHub\C# practic\C#_practic\task33MassiveeSortNegativeAndNuturalNumber\bin\Debug\net6.0\ref\task33MassiveeSortNegativeAndNuturalNumber.dll
+D:\GitHub\C# practic\C#_practic\task33MassiveeSortNegativeAndNuturalNumber\bin\Debug\net6.0\task33MassiveeSortNegativeAndNuturalNumber.pdb
+D:\GitHub\C# practic\C#_practic\task33MassiveeSortNegativeAndNuturalNumber\obj\Debug\net6.0\task33MassiveeSortNegativeAndNuturalNumber.dll
+D:\GitHub\C# practic\C#_practic\task33MassiveeSortNegativeAndNuturalNumber\obj\Debug\net6.0\ref\task33MassiveeSortNegativeAndNuturalNumber.dll
+D:\GitHub\C# practic\C#_practic\task33MassiveeSortNegativeAndNuturalNumber\obj\Debug\net6.0\task33MassiveeSortNegativeAndNuturalNumber.pdb
+D:\GitHub\C# practic\C#_practic\task33MassiveeSortNegativeAndNuturalNumber\obj\Debug\net6.0\task33MassiveeSortNegativeAndNuturalNumber.genruntimeconfig.cache
