@@ -1,19 +1,10 @@
 ﻿// Показать кубы чисел, заканчивающихся на четную цифру
 int N = 65;
-if (0 == N % 2)
+
+for (int i = N; i > 0; i--)
 {
-    while (N > 2)
+    if (0 == i % 2)
     {
-        Console.WriteLine(N * N * N);
-        N -= 2;
-    }
-}
-else
-{
-    N = N - 1;
-    while (N > 2)
-    {
-        Console.WriteLine(N * N * N);
-        N -= 2;
+        Console.WriteLine(i * i * i);
     }
 }

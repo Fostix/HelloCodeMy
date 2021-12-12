@@ -19,7 +19,7 @@ void PrintArray(int[] col)
     int position = 0;
     while (position < count)
     {
-        Console.WriteLine(col[position]);
+        Console.WriteLine($"{position + 1} {col[position]}");
         position++;
     }
 }

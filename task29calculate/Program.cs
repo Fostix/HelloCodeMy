@@ -5,6 +5,6 @@ int saveNumberMinus = numberLast;
 while (1 < saveNumberMinus)
 {
     numberLast = numberLast * (saveNumberMinus - 1); //factorial
-    saveNumberMinus = saveNumberMinus - 1;
+    saveNumberMinus--;
 }
 Console.WriteLine(numberLast);
