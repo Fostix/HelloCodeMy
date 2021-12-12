@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task34ChangeElementMassiveToNegative\obj\Debug\net6.0\task34ChangeElementMassiveToNegative.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task34ChangeElementMassiveToNegative\obj\Debug\net6.0\task34ChangeElementMassiveToNegative.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task34ChangeElementMassiveToNegative\obj\Debug\net6.0\task34ChangeElementMassiveToNegative.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task34ChangeElementMassiveToNegative\obj\Debug\net6.0\task34ChangeElementMassiveToNegative.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task34ChangeElementMassiveToNegative\obj\Debug\net6.0\task34ChangeElementMassiveToNegative.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task34ChangeElementMassiveToNegative\bin\Debug\net6.0\task34ChangeElementMassiveToNegative.exe
+D:\GitHub\C# practic\C#_practic\task34ChangeElementMassiveToNegative\bin\Debug\net6.0\task34ChangeElementMassiveToNegative.deps.json
+D:\GitHub\C# practic\C#_practic\task34ChangeElementMassiveToNegative\bin\Debug\net6.0\task34ChangeElementMassiveToNegative.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task34ChangeElementMassiveToNegative\bin\Debug\net6.0\task34ChangeElementMassiveToNegative.dll
+D:\GitHub\C# practic\C#_practic\task34ChangeElementMassiveToNegative\bin\Debug\net6.0\ref\task34ChangeElementMassiveToNegative.dll
+D:\GitHub\C# practic\C#_practic\task34ChangeElementMassiveToNegative\bin\Debug\net6.0\task34ChangeElementMassiveToNegative.pdb
+D:\GitHub\C# practic\C#_practic\task34ChangeElementMassiveToNegative\obj\Debug\net6.0\task34ChangeElementMassiveToNegative.dll
+D:\GitHub\C# practic\C#_practic\task34ChangeElementMassiveToNegative\obj\Debug\net6.0\ref\task34ChangeElementMassiveToNegative.dll
+D:\GitHub\C# practic\C#_practic\task34ChangeElementMassiveToNegative\obj\Debug\net6.0\task34ChangeElementMassiveToNegative.pdb
+D:\GitHub\C# practic\C#_practic\task34ChangeElementMassiveToNegative\obj\Debug\net6.0\task34ChangeElementMassiveToNegative.genruntimeconfig.cache
