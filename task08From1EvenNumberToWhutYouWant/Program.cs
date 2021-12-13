@@ -10,27 +10,3 @@ for (int i = 1; i <= finite; i++)
         Console.WriteLine(i);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-/* Console.WriteLine("even enter number: ");
-int num = int.Parse(Console.ReadLine());
-int
-
-
-for (int shownumb = 1; shownumb < 10; shownumb++)
-{
-    Console.WriteLine(shownumb, "evennumb");
-}
- */
-
-

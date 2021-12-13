@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\test2"
+    "\\test",
+    "\\test2",
+    "\\test3recursion"
   ],
-  "SelectedNode": "\\test2\\Program.cs",
+  "SelectedNode": "\\test\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
