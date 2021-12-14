@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task36SumEvenAndOddNumbers\obj\Debug\net6.0\task36SumEvenAndOddNumbers.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task36SumEvenAndOddNumbers\obj\Debug\net6.0\task36SumEvenAndOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task36SumEvenAndOddNumbers\obj\Debug\net6.0\task36SumEvenAndOddNumbers.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task36SumEvenAndOddNumbers\obj\Debug\net6.0\task36SumEvenAndOddNumbers.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task36SumEvenAndOddNumbers\obj\Debug\net6.0\task36SumEvenAndOddNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task36SumEvenAndOddNumbers\bin\Debug\net6.0\task36SumEvenAndOddNumbers.exe
+D:\GitHub\C# practic\C#_practic\task36SumEvenAndOddNumbers\bin\Debug\net6.0\task36SumEvenAndOddNumbers.deps.json
+D:\GitHub\C# practic\C#_practic\task36SumEvenAndOddNumbers\bin\Debug\net6.0\task36SumEvenAndOddNumbers.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task36SumEvenAndOddNumbers\bin\Debug\net6.0\task36SumEvenAndOddNumbers.dll
+D:\GitHub\C# practic\C#_practic\task36SumEvenAndOddNumbers\bin\Debug\net6.0\ref\task36SumEvenAndOddNumbers.dll
+D:\GitHub\C# practic\C#_practic\task36SumEvenAndOddNumbers\bin\Debug\net6.0\task36SumEvenAndOddNumbers.pdb
+D:\GitHub\C# practic\C#_practic\task36SumEvenAndOddNumbers\obj\Debug\net6.0\task36SumEvenAndOddNumbers.dll
+D:\GitHub\C# practic\C#_practic\task36SumEvenAndOddNumbers\obj\Debug\net6.0\ref\task36SumEvenAndOddNumbers.dll
+D:\GitHub\C# practic\C#_practic\task36SumEvenAndOddNumbers\obj\Debug\net6.0\task36SumEvenAndOddNumbers.pdb
+D:\GitHub\C# practic\C#_practic\task36SumEvenAndOddNumbers\obj\Debug\net6.0\task36SumEvenAndOddNumbers.genruntimeconfig.cache

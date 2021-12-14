@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task35FindNumberInArray\bin\Debug\net6.0\task35FindNumberInArray.exe
+D:\GitHub\C# practic\C#_practic\task35FindNumberInArray\bin\Debug\net6.0\task35FindNumberInArray.deps.json
+D:\GitHub\C# practic\C#_practic\task35FindNumberInArray\bin\Debug\net6.0\task35FindNumberInArray.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task35FindNumberInArray\bin\Debug\net6.0\task35FindNumberInArray.dll
+D:\GitHub\C# practic\C#_practic\task35FindNumberInArray\bin\Debug\net6.0\ref\task35FindNumberInArray.dll
+D:\GitHub\C# practic\C#_practic\task35FindNumberInArray\bin\Debug\net6.0\task35FindNumberInArray.pdb
+D:\GitHub\C# practic\C#_practic\task35FindNumberInArray\obj\Debug\net6.0\task35FindNumberInArray.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task35FindNumberInArray\obj\Debug\net6.0\task35FindNumberInArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task35FindNumberInArray\obj\Debug\net6.0\task35FindNumberInArray.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task35FindNumberInArray\obj\Debug\net6.0\task35FindNumberInArray.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task35FindNumberInArray\obj\Debug\net6.0\task35FindNumberInArray.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task35FindNumberInArray\obj\Debug\net6.0\task35FindNumberInArray.dll
+D:\GitHub\C# practic\C#_practic\task35FindNumberInArray\obj\Debug\net6.0\ref\task35FindNumberInArray.dll
+D:\GitHub\C# practic\C#_practic\task35FindNumberInArray\obj\Debug\net6.0\task35FindNumberInArray.pdb
+D:\GitHub\C# practic\C#_practic\task35FindNumberInArray\obj\Debug\net6.0\task35FindNumberInArray.genruntimeconfig.cache
