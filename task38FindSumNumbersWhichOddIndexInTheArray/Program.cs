@@ -1,6 +1,7 @@
 ﻿// Найти сумму чисел одномерного массива стоящих на нечетной позиции
-
-int[] array = new int[10];
+Console.Write("enter length array: ");
+int length = int.Parse(Console.ReadLine());
+int[] array = new int[length];
 
 void FillArray(int[] fill)
 {
