@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\test6subWordAndCopy\bin\Debug\net6.0\test6subWordAndCopy.exe
+D:\GitHub\C# practic\C#_practic\test6subWordAndCopy\bin\Debug\net6.0\test6subWordAndCopy.deps.json
+D:\GitHub\C# practic\C#_practic\test6subWordAndCopy\bin\Debug\net6.0\test6subWordAndCopy.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\test6subWordAndCopy\bin\Debug\net6.0\test6subWordAndCopy.dll
+D:\GitHub\C# practic\C#_practic\test6subWordAndCopy\bin\Debug\net6.0\ref\test6subWordAndCopy.dll
+D:\GitHub\C# practic\C#_practic\test6subWordAndCopy\bin\Debug\net6.0\test6subWordAndCopy.pdb
+D:\GitHub\C# practic\C#_practic\test6subWordAndCopy\obj\Debug\net6.0\test6subWordAndCopy.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\test6subWordAndCopy\obj\Debug\net6.0\test6subWordAndCopy.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\test6subWordAndCopy\obj\Debug\net6.0\test6subWordAndCopy.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\test6subWordAndCopy\obj\Debug\net6.0\test6subWordAndCopy.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\test6subWordAndCopy\obj\Debug\net6.0\test6subWordAndCopy.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\test6subWordAndCopy\obj\Debug\net6.0\test6subWordAndCopy.dll
+D:\GitHub\C# practic\C#_practic\test6subWordAndCopy\obj\Debug\net6.0\ref\test6subWordAndCopy.dll
+D:\GitHub\C# practic\C#_practic\test6subWordAndCopy\obj\Debug\net6.0\test6subWordAndCopy.pdb
+D:\GitHub\C# practic\C#_practic\test6subWordAndCopy\obj\Debug\net6.0\test6subWordAndCopy.genruntimeconfig.cache

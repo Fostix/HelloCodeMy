@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task40FindDifferenceBetweenNumbrs\obj\Debug\net6.0\task40FindDifferenceBetweenNumbrs.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task40FindDifferenceBetweenNumbrs\obj\Debug\net6.0\task40FindDifferenceBetweenNumbrs.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task40FindDifferenceBetweenNumbrs\obj\Debug\net6.0\task40FindDifferenceBetweenNumbrs.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task40FindDifferenceBetweenNumbrs\obj\Debug\net6.0\task40FindDifferenceBetweenNumbrs.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task40FindDifferenceBetweenNumbrs\obj\Debug\net6.0\task40FindDifferenceBetweenNumbrs.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task40FindDifferenceBetweenNumbrs\bin\Debug\net6.0\task40FindDifferenceBetweenNumbrs.exe
+D:\GitHub\C# practic\C#_practic\task40FindDifferenceBetweenNumbrs\bin\Debug\net6.0\task40FindDifferenceBetweenNumbrs.deps.json
+D:\GitHub\C# practic\C#_practic\task40FindDifferenceBetweenNumbrs\bin\Debug\net6.0\task40FindDifferenceBetweenNumbrs.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task40FindDifferenceBetweenNumbrs\bin\Debug\net6.0\task40FindDifferenceBetweenNumbrs.dll
+D:\GitHub\C# practic\C#_practic\task40FindDifferenceBetweenNumbrs\bin\Debug\net6.0\ref\task40FindDifferenceBetweenNumbrs.dll
+D:\GitHub\C# practic\C#_practic\task40FindDifferenceBetweenNumbrs\bin\Debug\net6.0\task40FindDifferenceBetweenNumbrs.pdb
+D:\GitHub\C# practic\C#_practic\task40FindDifferenceBetweenNumbrs\obj\Debug\net6.0\task40FindDifferenceBetweenNumbrs.dll
+D:\GitHub\C# practic\C#_practic\task40FindDifferenceBetweenNumbrs\obj\Debug\net6.0\ref\task40FindDifferenceBetweenNumbrs.dll
+D:\GitHub\C# practic\C#_practic\task40FindDifferenceBetweenNumbrs\obj\Debug\net6.0\task40FindDifferenceBetweenNumbrs.pdb
+D:\GitHub\C# practic\C#_practic\task40FindDifferenceBetweenNumbrs\obj\Debug\net6.0\task40FindDifferenceBetweenNumbrs.genruntimeconfig.cache

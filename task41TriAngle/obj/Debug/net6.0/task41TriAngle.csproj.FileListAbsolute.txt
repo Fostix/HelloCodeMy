@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task41TriAngle\bin\Debug\net6.0\task41TriAngle.exe
+D:\GitHub\C# practic\C#_practic\task41TriAngle\bin\Debug\net6.0\task41TriAngle.deps.json
+D:\GitHub\C# practic\C#_practic\task41TriAngle\bin\Debug\net6.0\task41TriAngle.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task41TriAngle\bin\Debug\net6.0\task41TriAngle.dll
+D:\GitHub\C# practic\C#_practic\task41TriAngle\bin\Debug\net6.0\ref\task41TriAngle.dll
+D:\GitHub\C# practic\C#_practic\task41TriAngle\bin\Debug\net6.0\task41TriAngle.pdb
+D:\GitHub\C# practic\C#_practic\task41TriAngle\obj\Debug\net6.0\task41TriAngle.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task41TriAngle\obj\Debug\net6.0\task41TriAngle.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task41TriAngle\obj\Debug\net6.0\task41TriAngle.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task41TriAngle\obj\Debug\net6.0\task41TriAngle.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task41TriAngle\obj\Debug\net6.0\task41TriAngle.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task41TriAngle\obj\Debug\net6.0\task41TriAngle.dll
+D:\GitHub\C# practic\C#_practic\task41TriAngle\obj\Debug\net6.0\ref\task41TriAngle.dll
+D:\GitHub\C# practic\C#_practic\task41TriAngle\obj\Debug\net6.0\task41TriAngle.pdb
+D:\GitHub\C# practic\C#_practic\task41TriAngle\obj\Debug\net6.0\task41TriAngle.genruntimeconfig.cache
