@@ -1,6 +1,6 @@
 ﻿// Написать программу замену элементов массива на противоположные.
 
-int[] array = new int[2];
+int[] array = new int[22];
 
 for (int i = 0; i < array.Length; i++)
 {
