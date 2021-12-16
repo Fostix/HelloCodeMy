@@ -1,4 +1,4 @@
-﻿// Определить сколько чисел больше 0 введено с клавиатуры
+﻿// Определить сколько чисел больше 0 введено с клавиатуры.
 
 Console.Write("How much numbers do you want to write? ");
 sbyte lengthArray = sbyte.Parse(Console.ReadLine());

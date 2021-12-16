@@ -1,4 +1,4 @@
-﻿string word = "Hello world";
+﻿/* string word = "Hello world";
 string subword = word.Substring(0, 5);
 Console.WriteLine(word);
 Console.WriteLine(subword);
@@ -11,7 +11,7 @@ for (int i = 0; i < secondArray.Length; i++)
 {
     System.Console.WriteLine(secondArray[i] + " ");
 }
-
+ */
 
 string getSequence(int number)
 {

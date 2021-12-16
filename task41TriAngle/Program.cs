@@ -1,4 +1,4 @@
-﻿// Выяснить являются ли три числа сторонами треугольника
+﻿// Выяснить являются ли три числа сторонами треугольника.
 
 Console.Write("Enter first number: ");
 sbyte a = sbyte.Parse(Console.ReadLine());
