@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task45Fibonacci\bin\Debug\net6.0\task45Fibonacci.exe
+D:\GitHub\C# practic\C#_practic\task45Fibonacci\bin\Debug\net6.0\task45Fibonacci.deps.json
+D:\GitHub\C# practic\C#_practic\task45Fibonacci\bin\Debug\net6.0\task45Fibonacci.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task45Fibonacci\bin\Debug\net6.0\task45Fibonacci.dll
+D:\GitHub\C# practic\C#_practic\task45Fibonacci\bin\Debug\net6.0\ref\task45Fibonacci.dll
+D:\GitHub\C# practic\C#_practic\task45Fibonacci\bin\Debug\net6.0\task45Fibonacci.pdb
+D:\GitHub\C# practic\C#_practic\task45Fibonacci\obj\Debug\net6.0\task45Fibonacci.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task45Fibonacci\obj\Debug\net6.0\task45Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task45Fibonacci\obj\Debug\net6.0\task45Fibonacci.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task45Fibonacci\obj\Debug\net6.0\task45Fibonacci.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task45Fibonacci\obj\Debug\net6.0\task45Fibonacci.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task45Fibonacci\obj\Debug\net6.0\task45Fibonacci.dll
+D:\GitHub\C# practic\C#_practic\task45Fibonacci\obj\Debug\net6.0\ref\task45Fibonacci.dll
+D:\GitHub\C# practic\C#_practic\task45Fibonacci\obj\Debug\net6.0\task45Fibonacci.pdb
+D:\GitHub\C# practic\C#_practic\task45Fibonacci\obj\Debug\net6.0\task45Fibonacci.genruntimeconfig.cache
