@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task49DoubleArrayRealNumbers\obj\Debug\net6.0\task49DoubleArrayRealNumbers.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task49DoubleArrayRealNumbers\obj\Debug\net6.0\task49DoubleArrayRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task49DoubleArrayRealNumbers\obj\Debug\net6.0\task49DoubleArrayRealNumbers.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task49DoubleArrayRealNumbers\obj\Debug\net6.0\task49DoubleArrayRealNumbers.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task49DoubleArrayRealNumbers\obj\Debug\net6.0\task49DoubleArrayRealNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task49DoubleArrayRealNumbers\bin\Debug\net6.0\task49DoubleArrayRealNumbers.exe
+D:\GitHub\C# practic\C#_practic\task49DoubleArrayRealNumbers\bin\Debug\net6.0\task49DoubleArrayRealNumbers.deps.json
+D:\GitHub\C# practic\C#_practic\task49DoubleArrayRealNumbers\bin\Debug\net6.0\task49DoubleArrayRealNumbers.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task49DoubleArrayRealNumbers\bin\Debug\net6.0\task49DoubleArrayRealNumbers.dll
+D:\GitHub\C# practic\C#_practic\task49DoubleArrayRealNumbers\bin\Debug\net6.0\ref\task49DoubleArrayRealNumbers.dll
+D:\GitHub\C# practic\C#_practic\task49DoubleArrayRealNumbers\bin\Debug\net6.0\task49DoubleArrayRealNumbers.pdb
+D:\GitHub\C# practic\C#_practic\task49DoubleArrayRealNumbers\obj\Debug\net6.0\task49DoubleArrayRealNumbers.dll
+D:\GitHub\C# practic\C#_practic\task49DoubleArrayRealNumbers\obj\Debug\net6.0\ref\task49DoubleArrayRealNumbers.dll
+D:\GitHub\C# practic\C#_practic\task49DoubleArrayRealNumbers\obj\Debug\net6.0\task49DoubleArrayRealNumbers.pdb
+D:\GitHub\C# practic\C#_practic\task49DoubleArrayRealNumbers\obj\Debug\net6.0\task49DoubleArrayRealNumbers.genruntimeconfig.cache
