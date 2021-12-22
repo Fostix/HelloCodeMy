@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\test9array\bin\Debug\net6.0\test9array.exe
+D:\GitHub\C# practic\C#_practic\test9array\bin\Debug\net6.0\test9array.deps.json
+D:\GitHub\C# practic\C#_practic\test9array\bin\Debug\net6.0\test9array.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\test9array\bin\Debug\net6.0\test9array.dll
+D:\GitHub\C# practic\C#_practic\test9array\bin\Debug\net6.0\ref\test9array.dll
+D:\GitHub\C# practic\C#_practic\test9array\bin\Debug\net6.0\test9array.pdb
+D:\GitHub\C# practic\C#_practic\test9array\obj\Debug\net6.0\test9array.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\test9array\obj\Debug\net6.0\test9array.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\test9array\obj\Debug\net6.0\test9array.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\test9array\obj\Debug\net6.0\test9array.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\test9array\obj\Debug\net6.0\test9array.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\test9array\obj\Debug\net6.0\test9array.dll
+D:\GitHub\C# practic\C#_practic\test9array\obj\Debug\net6.0\ref\test9array.dll
+D:\GitHub\C# practic\C#_practic\test9array\obj\Debug\net6.0\test9array.pdb
+D:\GitHub\C# practic\C#_practic\test9array\obj\Debug\net6.0\test9array.genruntimeconfig.cache

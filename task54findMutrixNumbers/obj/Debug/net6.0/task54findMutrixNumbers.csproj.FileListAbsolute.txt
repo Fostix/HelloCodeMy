@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task54findMutrixNumbers\bin\Debug\net6.0\task54findMutrixNumbers.exe
+D:\GitHub\C# practic\C#_practic\task54findMutrixNumbers\bin\Debug\net6.0\task54findMutrixNumbers.deps.json
+D:\GitHub\C# practic\C#_practic\task54findMutrixNumbers\bin\Debug\net6.0\task54findMutrixNumbers.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task54findMutrixNumbers\bin\Debug\net6.0\task54findMutrixNumbers.dll
+D:\GitHub\C# practic\C#_practic\task54findMutrixNumbers\bin\Debug\net6.0\ref\task54findMutrixNumbers.dll
+D:\GitHub\C# practic\C#_practic\task54findMutrixNumbers\bin\Debug\net6.0\task54findMutrixNumbers.pdb
+D:\GitHub\C# practic\C#_practic\task54findMutrixNumbers\obj\Debug\net6.0\task54findMutrixNumbers.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task54findMutrixNumbers\obj\Debug\net6.0\task54findMutrixNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task54findMutrixNumbers\obj\Debug\net6.0\task54findMutrixNumbers.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task54findMutrixNumbers\obj\Debug\net6.0\task54findMutrixNumbers.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task54findMutrixNumbers\obj\Debug\net6.0\task54findMutrixNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task54findMutrixNumbers\obj\Debug\net6.0\task54findMutrixNumbers.dll
+D:\GitHub\C# practic\C#_practic\task54findMutrixNumbers\obj\Debug\net6.0\ref\task54findMutrixNumbers.dll
+D:\GitHub\C# practic\C#_practic\task54findMutrixNumbers\obj\Debug\net6.0\task54findMutrixNumbers.pdb
+D:\GitHub\C# practic\C#_practic\task54findMutrixNumbers\obj\Debug\net6.0\task54findMutrixNumbers.genruntimeconfig.cache

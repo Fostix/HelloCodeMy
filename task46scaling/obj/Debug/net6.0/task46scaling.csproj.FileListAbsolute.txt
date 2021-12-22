@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task46scaling\bin\Debug\net6.0\task46scaling.exe
+D:\GitHub\C# practic\C#_practic\task46scaling\bin\Debug\net6.0\task46scaling.deps.json
+D:\GitHub\C# practic\C#_practic\task46scaling\bin\Debug\net6.0\task46scaling.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task46scaling\bin\Debug\net6.0\task46scaling.dll
+D:\GitHub\C# practic\C#_practic\task46scaling\bin\Debug\net6.0\ref\task46scaling.dll
+D:\GitHub\C# practic\C#_practic\task46scaling\bin\Debug\net6.0\task46scaling.pdb
+D:\GitHub\C# practic\C#_practic\task46scaling\obj\Debug\net6.0\task46scaling.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task46scaling\obj\Debug\net6.0\task46scaling.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task46scaling\obj\Debug\net6.0\task46scaling.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task46scaling\obj\Debug\net6.0\task46scaling.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task46scaling\obj\Debug\net6.0\task46scaling.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task46scaling\obj\Debug\net6.0\task46scaling.dll
+D:\GitHub\C# practic\C#_practic\task46scaling\obj\Debug\net6.0\ref\task46scaling.dll
+D:\GitHub\C# practic\C#_practic\task46scaling\obj\Debug\net6.0\task46scaling.pdb
+D:\GitHub\C# practic\C#_practic\task46scaling\obj\Debug\net6.0\task46scaling.genruntimeconfig.cache

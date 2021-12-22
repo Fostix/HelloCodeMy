@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task55Average\bin\Debug\net6.0\task55Average.exe
+D:\GitHub\C# practic\C#_practic\task55Average\bin\Debug\net6.0\task55Average.deps.json
+D:\GitHub\C# practic\C#_practic\task55Average\bin\Debug\net6.0\task55Average.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task55Average\bin\Debug\net6.0\task55Average.dll
+D:\GitHub\C# practic\C#_practic\task55Average\bin\Debug\net6.0\ref\task55Average.dll
+D:\GitHub\C# practic\C#_practic\task55Average\bin\Debug\net6.0\task55Average.pdb
+D:\GitHub\C# practic\C#_practic\task55Average\obj\Debug\net6.0\task55Average.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task55Average\obj\Debug\net6.0\task55Average.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task55Average\obj\Debug\net6.0\task55Average.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task55Average\obj\Debug\net6.0\task55Average.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task55Average\obj\Debug\net6.0\task55Average.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task55Average\obj\Debug\net6.0\task55Average.dll
+D:\GitHub\C# practic\C#_practic\task55Average\obj\Debug\net6.0\ref\task55Average.dll
+D:\GitHub\C# practic\C#_practic\task55Average\obj\Debug\net6.0\task55Average.pdb
+D:\GitHub\C# practic\C#_practic\task55Average\obj\Debug\net6.0\task55Average.genruntimeconfig.cache

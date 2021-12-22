@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task56SelectFirstAndLastRow\bin\Debug\net6.0\task56SelectFirstAndLastRow.exe
+D:\GitHub\C# practic\C#_practic\task56SelectFirstAndLastRow\bin\Debug\net6.0\task56SelectFirstAndLastRow.deps.json
+D:\GitHub\C# practic\C#_practic\task56SelectFirstAndLastRow\bin\Debug\net6.0\task56SelectFirstAndLastRow.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task56SelectFirstAndLastRow\bin\Debug\net6.0\task56SelectFirstAndLastRow.dll
+D:\GitHub\C# practic\C#_practic\task56SelectFirstAndLastRow\bin\Debug\net6.0\ref\task56SelectFirstAndLastRow.dll
+D:\GitHub\C# practic\C#_practic\task56SelectFirstAndLastRow\bin\Debug\net6.0\task56SelectFirstAndLastRow.pdb
+D:\GitHub\C# practic\C#_practic\task56SelectFirstAndLastRow\obj\Debug\net6.0\task56SelectFirstAndLastRow.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task56SelectFirstAndLastRow\obj\Debug\net6.0\task56SelectFirstAndLastRow.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task56SelectFirstAndLastRow\obj\Debug\net6.0\task56SelectFirstAndLastRow.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task56SelectFirstAndLastRow\obj\Debug\net6.0\task56SelectFirstAndLastRow.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task56SelectFirstAndLastRow\obj\Debug\net6.0\task56SelectFirstAndLastRow.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task56SelectFirstAndLastRow\obj\Debug\net6.0\task56SelectFirstAndLastRow.dll
+D:\GitHub\C# practic\C#_practic\task56SelectFirstAndLastRow\obj\Debug\net6.0\ref\task56SelectFirstAndLastRow.dll
+D:\GitHub\C# practic\C#_practic\task56SelectFirstAndLastRow\obj\Debug\net6.0\task56SelectFirstAndLastRow.pdb
+D:\GitHub\C# practic\C#_practic\task56SelectFirstAndLastRow\obj\Debug\net6.0\task56SelectFirstAndLastRow.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task53foundIndexNumber\obj\Debug\net6.0\task53foundIndexNumber.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task53foundIndexNumber\obj\Debug\net6.0\task53foundIndexNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task53foundIndexNumber\obj\Debug\net6.0\task53foundIndexNumber.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task53foundIndexNumber\obj\Debug\net6.0\task53foundIndexNumber.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task53foundIndexNumber\obj\Debug\net6.0\task53foundIndexNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task53foundIndexNumber\bin\Debug\net6.0\task53foundIndexNumber.exe
+D:\GitHub\C# practic\C#_practic\task53foundIndexNumber\bin\Debug\net6.0\task53foundIndexNumber.deps.json
+D:\GitHub\C# practic\C#_practic\task53foundIndexNumber\bin\Debug\net6.0\task53foundIndexNumber.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task53foundIndexNumber\bin\Debug\net6.0\task53foundIndexNumber.dll
+D:\GitHub\C# practic\C#_practic\task53foundIndexNumber\bin\Debug\net6.0\ref\task53foundIndexNumber.dll
+D:\GitHub\C# practic\C#_practic\task53foundIndexNumber\bin\Debug\net6.0\task53foundIndexNumber.pdb
+D:\GitHub\C# practic\C#_practic\task53foundIndexNumber\obj\Debug\net6.0\task53foundIndexNumber.dll
+D:\GitHub\C# practic\C#_practic\task53foundIndexNumber\obj\Debug\net6.0\ref\task53foundIndexNumber.dll
+D:\GitHub\C# practic\C#_practic\task53foundIndexNumber\obj\Debug\net6.0\task53foundIndexNumber.pdb
+D:\GitHub\C# practic\C#_practic\task53foundIndexNumber\obj\Debug\net6.0\task53foundIndexNumber.genruntimeconfig.cache

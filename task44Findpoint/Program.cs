@@ -1,19 +1,11 @@
-﻿// Показать двумерный массив размером m×n заполненный целыми числами.
-int m = 10;
-int n = 10;
+﻿// Найти точку пересечения двух прямых заданных уравнением y = k1 * x + b1, y = k2 * x + b2, b1 k1 и b2 и k2 заданы
 
+int k1 = int.Parse(Console.ReadLine());
+int b1 = int.Parse(Console.ReadLine());
+int k2 = int.Parse(Console.ReadLine());
+int b2 = int.Parse(Console.ReadLine());
+int x = (b2 - b1) / (k1 - k2);
 
-int[,] array = new int[m, n];
-
-void FillArray(int[,] fill)
-{
-    for (int i = 0; i < fill.Length; i++)
-    {
-        for (int j = 0; j < fill.Length; j++)
-        {
-            
-        }
-    }
-}
-
+Console.WriteLine(k1 * x + b1);
+Console.Write(k2 * x + b2);
 
