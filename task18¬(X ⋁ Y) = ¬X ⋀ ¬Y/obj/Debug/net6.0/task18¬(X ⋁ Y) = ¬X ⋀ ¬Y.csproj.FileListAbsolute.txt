@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y\obj\Debug\net6.0\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y\obj\Debug\net6.0\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y\obj\Debug\net6.0\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y\obj\Debug\net6.0\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y\obj\Debug\net6.0\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y\bin\Debug\net6.0\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y.exe
+D:\GitHub\C# practic\C#_practic\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y\bin\Debug\net6.0\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y.deps.json
+D:\GitHub\C# practic\C#_practic\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y\bin\Debug\net6.0\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y\bin\Debug\net6.0\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y.dll
+D:\GitHub\C# practic\C#_practic\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y\bin\Debug\net6.0\ref\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y.dll
+D:\GitHub\C# practic\C#_practic\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y\bin\Debug\net6.0\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y.pdb
+D:\GitHub\C# practic\C#_practic\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y\obj\Debug\net6.0\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y.dll
+D:\GitHub\C# practic\C#_practic\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y\obj\Debug\net6.0\ref\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y.dll
+D:\GitHub\C# practic\C#_practic\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y\obj\Debug\net6.0\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y.pdb
+D:\GitHub\C# practic\C#_practic\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y\obj\Debug\net6.0\task18¬(X ⋁ Y) = ¬X ⋀ ¬Y.genruntimeconfig.cache

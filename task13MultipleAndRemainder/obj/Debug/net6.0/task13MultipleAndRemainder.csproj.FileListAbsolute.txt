@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task13MultipleAndRemainder\bin\Debug\net6.0\task13MultipleAndRemainder.exe
+D:\GitHub\C# practic\C#_practic\task13MultipleAndRemainder\bin\Debug\net6.0\task13MultipleAndRemainder.deps.json
+D:\GitHub\C# practic\C#_practic\task13MultipleAndRemainder\bin\Debug\net6.0\task13MultipleAndRemainder.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task13MultipleAndRemainder\bin\Debug\net6.0\task13MultipleAndRemainder.dll
+D:\GitHub\C# practic\C#_practic\task13MultipleAndRemainder\bin\Debug\net6.0\ref\task13MultipleAndRemainder.dll
+D:\GitHub\C# practic\C#_practic\task13MultipleAndRemainder\bin\Debug\net6.0\task13MultipleAndRemainder.pdb
+D:\GitHub\C# practic\C#_practic\task13MultipleAndRemainder\obj\Debug\net6.0\task13MultipleAndRemainder.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task13MultipleAndRemainder\obj\Debug\net6.0\task13MultipleAndRemainder.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task13MultipleAndRemainder\obj\Debug\net6.0\task13MultipleAndRemainder.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task13MultipleAndRemainder\obj\Debug\net6.0\task13MultipleAndRemainder.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task13MultipleAndRemainder\obj\Debug\net6.0\task13MultipleAndRemainder.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task13MultipleAndRemainder\obj\Debug\net6.0\task13MultipleAndRemainder.dll
+D:\GitHub\C# practic\C#_practic\task13MultipleAndRemainder\obj\Debug\net6.0\ref\task13MultipleAndRemainder.dll
+D:\GitHub\C# practic\C#_practic\task13MultipleAndRemainder\obj\Debug\net6.0\task13MultipleAndRemainder.pdb
+D:\GitHub\C# practic\C#_practic\task13MultipleAndRemainder\obj\Debug\net6.0\task13MultipleAndRemainder.genruntimeconfig.cache

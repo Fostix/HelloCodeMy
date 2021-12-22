@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task32MassiveWith1and0\bin\Debug\net6.0\task32MassiveWith1and0.exe
+D:\GitHub\C# practic\C#_practic\task32MassiveWith1and0\bin\Debug\net6.0\task32MassiveWith1and0.deps.json
+D:\GitHub\C# practic\C#_practic\task32MassiveWith1and0\bin\Debug\net6.0\task32MassiveWith1and0.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task32MassiveWith1and0\bin\Debug\net6.0\task32MassiveWith1and0.dll
+D:\GitHub\C# practic\C#_practic\task32MassiveWith1and0\bin\Debug\net6.0\ref\task32MassiveWith1and0.dll
+D:\GitHub\C# practic\C#_practic\task32MassiveWith1and0\bin\Debug\net6.0\task32MassiveWith1and0.pdb
+D:\GitHub\C# practic\C#_practic\task32MassiveWith1and0\obj\Debug\net6.0\task32MassiveWith1and0.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task32MassiveWith1and0\obj\Debug\net6.0\task32MassiveWith1and0.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task32MassiveWith1and0\obj\Debug\net6.0\task32MassiveWith1and0.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task32MassiveWith1and0\obj\Debug\net6.0\task32MassiveWith1and0.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task32MassiveWith1and0\obj\Debug\net6.0\task32MassiveWith1and0.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task32MassiveWith1and0\obj\Debug\net6.0\task32MassiveWith1and0.dll
+D:\GitHub\C# practic\C#_practic\task32MassiveWith1and0\obj\Debug\net6.0\ref\task32MassiveWith1and0.dll
+D:\GitHub\C# practic\C#_practic\task32MassiveWith1and0\obj\Debug\net6.0\task32MassiveWith1and0.pdb
+D:\GitHub\C# practic\C#_practic\task32MassiveWith1and0\obj\Debug\net6.0\task32MassiveWith1and0.genruntimeconfig.cache

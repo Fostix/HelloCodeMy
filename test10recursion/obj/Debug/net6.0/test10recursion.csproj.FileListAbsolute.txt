@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\test10recursion\bin\Debug\net6.0\test10recursion.exe
+D:\GitHub\C# practic\C#_practic\test10recursion\bin\Debug\net6.0\test10recursion.deps.json
+D:\GitHub\C# practic\C#_practic\test10recursion\bin\Debug\net6.0\test10recursion.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\test10recursion\bin\Debug\net6.0\test10recursion.dll
+D:\GitHub\C# practic\C#_practic\test10recursion\bin\Debug\net6.0\ref\test10recursion.dll
+D:\GitHub\C# practic\C#_practic\test10recursion\bin\Debug\net6.0\test10recursion.pdb
+D:\GitHub\C# practic\C#_practic\test10recursion\obj\Debug\net6.0\test10recursion.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\test10recursion\obj\Debug\net6.0\test10recursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\test10recursion\obj\Debug\net6.0\test10recursion.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\test10recursion\obj\Debug\net6.0\test10recursion.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\test10recursion\obj\Debug\net6.0\test10recursion.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\test10recursion\obj\Debug\net6.0\test10recursion.dll
+D:\GitHub\C# practic\C#_practic\test10recursion\obj\Debug\net6.0\ref\test10recursion.dll
+D:\GitHub\C# practic\C#_practic\test10recursion\obj\Debug\net6.0\test10recursion.pdb
+D:\GitHub\C# practic\C#_practic\test10recursion\obj\Debug\net6.0\test10recursion.genruntimeconfig.cache

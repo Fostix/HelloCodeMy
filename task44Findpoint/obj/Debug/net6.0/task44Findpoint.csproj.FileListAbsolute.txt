@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task44Findpoint\obj\Debug\net6.0\task44Findpoint.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task44Findpoint\obj\Debug\net6.0\task44Findpoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task44Findpoint\obj\Debug\net6.0\task44Findpoint.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task44Findpoint\obj\Debug\net6.0\task44Findpoint.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task44Findpoint\obj\Debug\net6.0\task44Findpoint.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task44Findpoint\bin\Debug\net6.0\task44Findpoint.exe
+D:\GitHub\C# practic\C#_practic\task44Findpoint\bin\Debug\net6.0\task44Findpoint.deps.json
+D:\GitHub\C# practic\C#_practic\task44Findpoint\bin\Debug\net6.0\task44Findpoint.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task44Findpoint\bin\Debug\net6.0\task44Findpoint.dll
+D:\GitHub\C# practic\C#_practic\task44Findpoint\bin\Debug\net6.0\ref\task44Findpoint.dll
+D:\GitHub\C# practic\C#_practic\task44Findpoint\bin\Debug\net6.0\task44Findpoint.pdb
+D:\GitHub\C# practic\C#_practic\task44Findpoint\obj\Debug\net6.0\task44Findpoint.dll
+D:\GitHub\C# practic\C#_practic\task44Findpoint\obj\Debug\net6.0\ref\task44Findpoint.dll
+D:\GitHub\C# practic\C#_practic\task44Findpoint\obj\Debug\net6.0\task44Findpoint.pdb
+D:\GitHub\C# practic\C#_practic\task44Findpoint\obj\Debug\net6.0\task44Findpoint.genruntimeconfig.cache

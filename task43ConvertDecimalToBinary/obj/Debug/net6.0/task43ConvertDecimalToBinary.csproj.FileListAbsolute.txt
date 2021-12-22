@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task43ConvertDecimalToBinary\bin\Debug\net6.0\task43ConvertDecimalToBinary.exe
+D:\GitHub\C# practic\C#_practic\task43ConvertDecimalToBinary\bin\Debug\net6.0\task43ConvertDecimalToBinary.deps.json
+D:\GitHub\C# practic\C#_practic\task43ConvertDecimalToBinary\bin\Debug\net6.0\task43ConvertDecimalToBinary.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task43ConvertDecimalToBinary\bin\Debug\net6.0\task43ConvertDecimalToBinary.dll
+D:\GitHub\C# practic\C#_practic\task43ConvertDecimalToBinary\bin\Debug\net6.0\ref\task43ConvertDecimalToBinary.dll
+D:\GitHub\C# practic\C#_practic\task43ConvertDecimalToBinary\bin\Debug\net6.0\task43ConvertDecimalToBinary.pdb
+D:\GitHub\C# practic\C#_practic\task43ConvertDecimalToBinary\obj\Debug\net6.0\task43ConvertDecimalToBinary.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task43ConvertDecimalToBinary\obj\Debug\net6.0\task43ConvertDecimalToBinary.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task43ConvertDecimalToBinary\obj\Debug\net6.0\task43ConvertDecimalToBinary.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task43ConvertDecimalToBinary\obj\Debug\net6.0\task43ConvertDecimalToBinary.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task43ConvertDecimalToBinary\obj\Debug\net6.0\task43ConvertDecimalToBinary.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task43ConvertDecimalToBinary\obj\Debug\net6.0\task43ConvertDecimalToBinary.dll
+D:\GitHub\C# practic\C#_practic\task43ConvertDecimalToBinary\obj\Debug\net6.0\ref\task43ConvertDecimalToBinary.dll
+D:\GitHub\C# practic\C#_practic\task43ConvertDecimalToBinary\obj\Debug\net6.0\task43ConvertDecimalToBinary.pdb
+D:\GitHub\C# practic\C#_practic\task43ConvertDecimalToBinary\obj\Debug\net6.0\task43ConvertDecimalToBinary.genruntimeconfig.cache

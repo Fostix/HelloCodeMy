@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task50evenNumbetToOdd\obj\Debug\net6.0\task50evenNumbetToOdd.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task50evenNumbetToOdd\obj\Debug\net6.0\task50evenNumbetToOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task50evenNumbetToOdd\obj\Debug\net6.0\task50evenNumbetToOdd.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task50evenNumbetToOdd\obj\Debug\net6.0\task50evenNumbetToOdd.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task50evenNumbetToOdd\obj\Debug\net6.0\task50evenNumbetToOdd.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task50evenNumbetToOdd\bin\Debug\net6.0\task50evenNumbetToOdd.exe
+D:\GitHub\C# practic\C#_practic\task50evenNumbetToOdd\bin\Debug\net6.0\task50evenNumbetToOdd.deps.json
+D:\GitHub\C# practic\C#_practic\task50evenNumbetToOdd\bin\Debug\net6.0\task50evenNumbetToOdd.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task50evenNumbetToOdd\bin\Debug\net6.0\task50evenNumbetToOdd.dll
+D:\GitHub\C# practic\C#_practic\task50evenNumbetToOdd\bin\Debug\net6.0\ref\task50evenNumbetToOdd.dll
+D:\GitHub\C# practic\C#_practic\task50evenNumbetToOdd\bin\Debug\net6.0\task50evenNumbetToOdd.pdb
+D:\GitHub\C# practic\C#_practic\task50evenNumbetToOdd\obj\Debug\net6.0\task50evenNumbetToOdd.dll
+D:\GitHub\C# practic\C#_practic\task50evenNumbetToOdd\obj\Debug\net6.0\ref\task50evenNumbetToOdd.dll
+D:\GitHub\C# practic\C#_practic\task50evenNumbetToOdd\obj\Debug\net6.0\task50evenNumbetToOdd.pdb
+D:\GitHub\C# practic\C#_practic\task50evenNumbetToOdd\obj\Debug\net6.0\task50evenNumbetToOdd.genruntimeconfig.cache

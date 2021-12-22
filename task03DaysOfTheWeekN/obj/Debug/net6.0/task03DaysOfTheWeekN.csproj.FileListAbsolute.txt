@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task03DaysOfTheWeekN\bin\Debug\net6.0\task03DaysOfTheWeekN.exe
+D:\GitHub\C# practic\C#_practic\task03DaysOfTheWeekN\bin\Debug\net6.0\task03DaysOfTheWeekN.deps.json
+D:\GitHub\C# practic\C#_practic\task03DaysOfTheWeekN\bin\Debug\net6.0\task03DaysOfTheWeekN.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task03DaysOfTheWeekN\bin\Debug\net6.0\task03DaysOfTheWeekN.dll
+D:\GitHub\C# practic\C#_practic\task03DaysOfTheWeekN\bin\Debug\net6.0\ref\task03DaysOfTheWeekN.dll
+D:\GitHub\C# practic\C#_practic\task03DaysOfTheWeekN\bin\Debug\net6.0\task03DaysOfTheWeekN.pdb
+D:\GitHub\C# practic\C#_practic\task03DaysOfTheWeekN\obj\Debug\net6.0\task03DaysOfTheWeekN.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task03DaysOfTheWeekN\obj\Debug\net6.0\task03DaysOfTheWeekN.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task03DaysOfTheWeekN\obj\Debug\net6.0\task03DaysOfTheWeekN.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task03DaysOfTheWeekN\obj\Debug\net6.0\task03DaysOfTheWeekN.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task03DaysOfTheWeekN\obj\Debug\net6.0\task03DaysOfTheWeekN.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task03DaysOfTheWeekN\obj\Debug\net6.0\task03DaysOfTheWeekN.dll
+D:\GitHub\C# practic\C#_practic\task03DaysOfTheWeekN\obj\Debug\net6.0\ref\task03DaysOfTheWeekN.dll
+D:\GitHub\C# practic\C#_practic\task03DaysOfTheWeekN\obj\Debug\net6.0\task03DaysOfTheWeekN.pdb
+D:\GitHub\C# practic\C#_practic\task03DaysOfTheWeekN\obj\Debug\net6.0\task03DaysOfTheWeekN.genruntimeconfig.cache

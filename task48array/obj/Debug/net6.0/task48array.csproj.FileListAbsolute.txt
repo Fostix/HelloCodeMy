@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task48array\obj\Debug\net6.0\task48array.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task48array\obj\Debug\net6.0\task48array.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task48array\obj\Debug\net6.0\task48array.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task48array\obj\Debug\net6.0\task48array.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task48array\obj\Debug\net6.0\task48array.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task48array\bin\Debug\net6.0\task48array.exe
+D:\GitHub\C# practic\C#_practic\task48array\bin\Debug\net6.0\task48array.deps.json
+D:\GitHub\C# practic\C#_practic\task48array\bin\Debug\net6.0\task48array.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task48array\bin\Debug\net6.0\task48array.dll
+D:\GitHub\C# practic\C#_practic\task48array\bin\Debug\net6.0\ref\task48array.dll
+D:\GitHub\C# practic\C#_practic\task48array\bin\Debug\net6.0\task48array.pdb
+D:\GitHub\C# practic\C#_practic\task48array\obj\Debug\net6.0\task48array.dll
+D:\GitHub\C# practic\C#_practic\task48array\obj\Debug\net6.0\ref\task48array.dll
+D:\GitHub\C# practic\C#_practic\task48array\obj\Debug\net6.0\task48array.pdb
+D:\GitHub\C# practic\C#_practic\task48array\obj\Debug\net6.0\task48array.genruntimeconfig.cache

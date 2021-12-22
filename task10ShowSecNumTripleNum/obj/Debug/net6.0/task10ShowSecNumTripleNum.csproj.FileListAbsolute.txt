@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task10ShowSecNumTripleNum\bin\Debug\net6.0\task10ShowSecNumTripleNum.exe
+D:\GitHub\C# practic\C#_practic\task10ShowSecNumTripleNum\bin\Debug\net6.0\task10ShowSecNumTripleNum.deps.json
+D:\GitHub\C# practic\C#_practic\task10ShowSecNumTripleNum\bin\Debug\net6.0\task10ShowSecNumTripleNum.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task10ShowSecNumTripleNum\bin\Debug\net6.0\task10ShowSecNumTripleNum.dll
+D:\GitHub\C# practic\C#_practic\task10ShowSecNumTripleNum\bin\Debug\net6.0\ref\task10ShowSecNumTripleNum.dll
+D:\GitHub\C# practic\C#_practic\task10ShowSecNumTripleNum\bin\Debug\net6.0\task10ShowSecNumTripleNum.pdb
+D:\GitHub\C# practic\C#_practic\task10ShowSecNumTripleNum\obj\Debug\net6.0\task10ShowSecNumTripleNum.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task10ShowSecNumTripleNum\obj\Debug\net6.0\task10ShowSecNumTripleNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task10ShowSecNumTripleNum\obj\Debug\net6.0\task10ShowSecNumTripleNum.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task10ShowSecNumTripleNum\obj\Debug\net6.0\task10ShowSecNumTripleNum.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task10ShowSecNumTripleNum\obj\Debug\net6.0\task10ShowSecNumTripleNum.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task10ShowSecNumTripleNum\obj\Debug\net6.0\task10ShowSecNumTripleNum.dll
+D:\GitHub\C# practic\C#_practic\task10ShowSecNumTripleNum\obj\Debug\net6.0\ref\task10ShowSecNumTripleNum.dll
+D:\GitHub\C# practic\C#_practic\task10ShowSecNumTripleNum\obj\Debug\net6.0\task10ShowSecNumTripleNum.pdb
+D:\GitHub\C# practic\C#_practic\task10ShowSecNumTripleNum\obj\Debug\net6.0\task10ShowSecNumTripleNum.genruntimeconfig.cache

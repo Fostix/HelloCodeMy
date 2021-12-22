@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task39ProductOfNumbers\obj\Debug\net6.0\task39ProductOfNumbers.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task39ProductOfNumbers\obj\Debug\net6.0\task39ProductOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task39ProductOfNumbers\obj\Debug\net6.0\task39ProductOfNumbers.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task39ProductOfNumbers\obj\Debug\net6.0\task39ProductOfNumbers.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task39ProductOfNumbers\obj\Debug\net6.0\task39ProductOfNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task39ProductOfNumbers\bin\Debug\net6.0\task39ProductOfNumbers.exe
+D:\GitHub\C# practic\C#_practic\task39ProductOfNumbers\bin\Debug\net6.0\task39ProductOfNumbers.deps.json
+D:\GitHub\C# practic\C#_practic\task39ProductOfNumbers\bin\Debug\net6.0\task39ProductOfNumbers.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task39ProductOfNumbers\bin\Debug\net6.0\task39ProductOfNumbers.dll
+D:\GitHub\C# practic\C#_practic\task39ProductOfNumbers\bin\Debug\net6.0\ref\task39ProductOfNumbers.dll
+D:\GitHub\C# practic\C#_practic\task39ProductOfNumbers\bin\Debug\net6.0\task39ProductOfNumbers.pdb
+D:\GitHub\C# practic\C#_practic\task39ProductOfNumbers\obj\Debug\net6.0\task39ProductOfNumbers.dll
+D:\GitHub\C# practic\C#_practic\task39ProductOfNumbers\obj\Debug\net6.0\ref\task39ProductOfNumbers.dll
+D:\GitHub\C# practic\C#_practic\task39ProductOfNumbers\obj\Debug\net6.0\task39ProductOfNumbers.pdb
+D:\GitHub\C# practic\C#_practic\task39ProductOfNumbers\obj\Debug\net6.0\task39ProductOfNumbers.genruntimeconfig.cache

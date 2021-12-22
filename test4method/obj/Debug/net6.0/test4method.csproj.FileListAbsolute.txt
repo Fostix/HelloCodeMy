@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\test4method\bin\Debug\net6.0\test4method.exe
+D:\GitHub\C# practic\C#_practic\test4method\bin\Debug\net6.0\test4method.deps.json
+D:\GitHub\C# practic\C#_practic\test4method\bin\Debug\net6.0\test4method.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\test4method\bin\Debug\net6.0\test4method.dll
+D:\GitHub\C# practic\C#_practic\test4method\bin\Debug\net6.0\ref\test4method.dll
+D:\GitHub\C# practic\C#_practic\test4method\bin\Debug\net6.0\test4method.pdb
+D:\GitHub\C# practic\C#_practic\test4method\obj\Debug\net6.0\test4method.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\test4method\obj\Debug\net6.0\test4method.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\test4method\obj\Debug\net6.0\test4method.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\test4method\obj\Debug\net6.0\test4method.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\test4method\obj\Debug\net6.0\test4method.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\test4method\obj\Debug\net6.0\test4method.dll
+D:\GitHub\C# practic\C#_practic\test4method\obj\Debug\net6.0\ref\test4method.dll
+D:\GitHub\C# practic\C#_practic\test4method\obj\Debug\net6.0\test4method.pdb
+D:\GitHub\C# practic\C#_practic\test4method\obj\Debug\net6.0\test4method.genruntimeconfig.cache

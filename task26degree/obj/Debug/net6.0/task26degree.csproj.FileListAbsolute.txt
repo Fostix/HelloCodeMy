@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task26degree\bin\Debug\net6.0\task26degree.exe
+D:\GitHub\C# practic\C#_practic\task26degree\bin\Debug\net6.0\task26degree.deps.json
+D:\GitHub\C# practic\C#_practic\task26degree\bin\Debug\net6.0\task26degree.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task26degree\bin\Debug\net6.0\task26degree.dll
+D:\GitHub\C# practic\C#_practic\task26degree\bin\Debug\net6.0\ref\task26degree.dll
+D:\GitHub\C# practic\C#_practic\task26degree\bin\Debug\net6.0\task26degree.pdb
+D:\GitHub\C# practic\C#_practic\task26degree\obj\Debug\net6.0\task26degree.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task26degree\obj\Debug\net6.0\task26degree.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task26degree\obj\Debug\net6.0\task26degree.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task26degree\obj\Debug\net6.0\task26degree.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task26degree\obj\Debug\net6.0\task26degree.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task26degree\obj\Debug\net6.0\task26degree.dll
+D:\GitHub\C# practic\C#_practic\task26degree\obj\Debug\net6.0\ref\task26degree.dll
+D:\GitHub\C# practic\C#_practic\task26degree\obj\Debug\net6.0\task26degree.pdb
+D:\GitHub\C# practic\C#_practic\task26degree\obj\Debug\net6.0\task26degree.genruntimeconfig.cache

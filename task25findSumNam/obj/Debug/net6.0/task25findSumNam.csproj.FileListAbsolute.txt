@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task25findSumNam\bin\Debug\net6.0\task25findSumNam.exe
+D:\GitHub\C# practic\C#_practic\task25findSumNam\bin\Debug\net6.0\task25findSumNam.deps.json
+D:\GitHub\C# practic\C#_practic\task25findSumNam\bin\Debug\net6.0\task25findSumNam.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task25findSumNam\bin\Debug\net6.0\task25findSumNam.dll
+D:\GitHub\C# practic\C#_practic\task25findSumNam\bin\Debug\net6.0\ref\task25findSumNam.dll
+D:\GitHub\C# practic\C#_practic\task25findSumNam\bin\Debug\net6.0\task25findSumNam.pdb
+D:\GitHub\C# practic\C#_practic\task25findSumNam\obj\Debug\net6.0\task25findSumNam.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task25findSumNam\obj\Debug\net6.0\task25findSumNam.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task25findSumNam\obj\Debug\net6.0\task25findSumNam.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task25findSumNam\obj\Debug\net6.0\task25findSumNam.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task25findSumNam\obj\Debug\net6.0\task25findSumNam.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task25findSumNam\obj\Debug\net6.0\task25findSumNam.dll
+D:\GitHub\C# practic\C#_practic\task25findSumNam\obj\Debug\net6.0\ref\task25findSumNam.dll
+D:\GitHub\C# practic\C#_practic\task25findSumNam\obj\Debug\net6.0\task25findSumNam.pdb
+D:\GitHub\C# practic\C#_practic\task25findSumNam\obj\Debug\net6.0\task25findSumNam.genruntimeconfig.cache

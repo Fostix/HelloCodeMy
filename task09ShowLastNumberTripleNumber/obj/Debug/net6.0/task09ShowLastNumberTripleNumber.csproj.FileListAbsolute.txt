@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task09ShowLastNumberTripleNumber\obj\Debug\net6.0\task09ShowLastNumberTripleNumber.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task09ShowLastNumberTripleNumber\obj\Debug\net6.0\task09ShowLastNumberTripleNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task09ShowLastNumberTripleNumber\obj\Debug\net6.0\task09ShowLastNumberTripleNumber.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task09ShowLastNumberTripleNumber\obj\Debug\net6.0\task09ShowLastNumberTripleNumber.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task09ShowLastNumberTripleNumber\obj\Debug\net6.0\task09ShowLastNumberTripleNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task09ShowLastNumberTripleNumber\bin\Debug\net6.0\task09ShowLastNumberTripleNumber.exe
+D:\GitHub\C# practic\C#_practic\task09ShowLastNumberTripleNumber\bin\Debug\net6.0\task09ShowLastNumberTripleNumber.deps.json
+D:\GitHub\C# practic\C#_practic\task09ShowLastNumberTripleNumber\bin\Debug\net6.0\task09ShowLastNumberTripleNumber.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task09ShowLastNumberTripleNumber\bin\Debug\net6.0\task09ShowLastNumberTripleNumber.dll
+D:\GitHub\C# practic\C#_practic\task09ShowLastNumberTripleNumber\bin\Debug\net6.0\ref\task09ShowLastNumberTripleNumber.dll
+D:\GitHub\C# practic\C#_practic\task09ShowLastNumberTripleNumber\bin\Debug\net6.0\task09ShowLastNumberTripleNumber.pdb
+D:\GitHub\C# practic\C#_practic\task09ShowLastNumberTripleNumber\obj\Debug\net6.0\task09ShowLastNumberTripleNumber.dll
+D:\GitHub\C# practic\C#_practic\task09ShowLastNumberTripleNumber\obj\Debug\net6.0\ref\task09ShowLastNumberTripleNumber.dll
+D:\GitHub\C# practic\C#_practic\task09ShowLastNumberTripleNumber\obj\Debug\net6.0\task09ShowLastNumberTripleNumber.pdb
+D:\GitHub\C# practic\C#_practic\task09ShowLastNumberTripleNumber\obj\Debug\net6.0\task09ShowLastNumberTripleNumber.genruntimeconfig.cache

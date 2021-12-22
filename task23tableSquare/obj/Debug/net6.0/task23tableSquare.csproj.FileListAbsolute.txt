@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task23tableSquare\bin\Debug\net6.0\task23tableSquare.exe
+D:\GitHub\C# practic\C#_practic\task23tableSquare\bin\Debug\net6.0\task23tableSquare.deps.json
+D:\GitHub\C# practic\C#_practic\task23tableSquare\bin\Debug\net6.0\task23tableSquare.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task23tableSquare\bin\Debug\net6.0\task23tableSquare.dll
+D:\GitHub\C# practic\C#_practic\task23tableSquare\bin\Debug\net6.0\ref\task23tableSquare.dll
+D:\GitHub\C# practic\C#_practic\task23tableSquare\bin\Debug\net6.0\task23tableSquare.pdb
+D:\GitHub\C# practic\C#_practic\task23tableSquare\obj\Debug\net6.0\task23tableSquare.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task23tableSquare\obj\Debug\net6.0\task23tableSquare.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task23tableSquare\obj\Debug\net6.0\task23tableSquare.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task23tableSquare\obj\Debug\net6.0\task23tableSquare.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task23tableSquare\obj\Debug\net6.0\task23tableSquare.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task23tableSquare\obj\Debug\net6.0\task23tableSquare.dll
+D:\GitHub\C# practic\C#_practic\task23tableSquare\obj\Debug\net6.0\ref\task23tableSquare.dll
+D:\GitHub\C# practic\C#_practic\task23tableSquare\obj\Debug\net6.0\task23tableSquare.pdb
+D:\GitHub\C# practic\C#_practic\task23tableSquare\obj\Debug\net6.0\task23tableSquare.genruntimeconfig.cache

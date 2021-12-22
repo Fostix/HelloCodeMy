@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task32MassiveWith1and0/1.0.0": {
+        "runtime": {
+          "task32MassiveWith1and0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task32MassiveWith1and0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

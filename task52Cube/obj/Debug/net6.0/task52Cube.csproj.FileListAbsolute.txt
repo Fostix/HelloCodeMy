@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task52Cube\bin\Debug\net6.0\task52Cube.exe
+D:\GitHub\C# practic\C#_practic\task52Cube\bin\Debug\net6.0\task52Cube.deps.json
+D:\GitHub\C# practic\C#_practic\task52Cube\bin\Debug\net6.0\task52Cube.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task52Cube\bin\Debug\net6.0\task52Cube.dll
+D:\GitHub\C# practic\C#_practic\task52Cube\bin\Debug\net6.0\ref\task52Cube.dll
+D:\GitHub\C# practic\C#_practic\task52Cube\bin\Debug\net6.0\task52Cube.pdb
+D:\GitHub\C# practic\C#_practic\task52Cube\obj\Debug\net6.0\task52Cube.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task52Cube\obj\Debug\net6.0\task52Cube.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task52Cube\obj\Debug\net6.0\task52Cube.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task52Cube\obj\Debug\net6.0\task52Cube.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task52Cube\obj\Debug\net6.0\task52Cube.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task52Cube\obj\Debug\net6.0\task52Cube.dll
+D:\GitHub\C# practic\C#_practic\task52Cube\obj\Debug\net6.0\ref\task52Cube.dll
+D:\GitHub\C# practic\C#_practic\task52Cube\obj\Debug\net6.0\task52Cube.pdb
+D:\GitHub\C# practic\C#_practic\task52Cube\obj\Debug\net6.0\task52Cube.genruntimeconfig.cache

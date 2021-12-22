@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task51 Aₘₙ = m+n\bin\Debug\net6.0\task51 Aₘₙ = m+n.exe
+D:\GitHub\C# practic\C#_practic\task51 Aₘₙ = m+n\bin\Debug\net6.0\task51 Aₘₙ = m+n.deps.json
+D:\GitHub\C# practic\C#_practic\task51 Aₘₙ = m+n\bin\Debug\net6.0\task51 Aₘₙ = m+n.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task51 Aₘₙ = m+n\bin\Debug\net6.0\task51 Aₘₙ = m+n.dll
+D:\GitHub\C# practic\C#_practic\task51 Aₘₙ = m+n\bin\Debug\net6.0\ref\task51 Aₘₙ = m+n.dll
+D:\GitHub\C# practic\C#_practic\task51 Aₘₙ = m+n\bin\Debug\net6.0\task51 Aₘₙ = m+n.pdb
+D:\GitHub\C# practic\C#_practic\task51 Aₘₙ = m+n\obj\Debug\net6.0\task51 Aₘₙ = m+n.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task51 Aₘₙ = m+n\obj\Debug\net6.0\task51 Aₘₙ = m+n.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task51 Aₘₙ = m+n\obj\Debug\net6.0\task51 Aₘₙ = m+n.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task51 Aₘₙ = m+n\obj\Debug\net6.0\task51 Aₘₙ = m+n.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task51 Aₘₙ = m+n\obj\Debug\net6.0\task51 Aₘₙ = m+n.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task51 Aₘₙ = m+n\obj\Debug\net6.0\task51 Aₘₙ = m+n.dll
+D:\GitHub\C# practic\C#_practic\task51 Aₘₙ = m+n\obj\Debug\net6.0\ref\task51 Aₘₙ = m+n.dll
+D:\GitHub\C# practic\C#_practic\task51 Aₘₙ = m+n\obj\Debug\net6.0\task51 Aₘₙ = m+n.pdb
+D:\GitHub\C# practic\C#_practic\task51 Aₘₙ = m+n\obj\Debug\net6.0\task51 Aₘₙ = m+n.genruntimeconfig.cache

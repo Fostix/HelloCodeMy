@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task08From1EvenNumberToWhutYouWant\obj\Debug\net6.0\task08From1EvenNumberToWhutYouWant.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task08From1EvenNumberToWhutYouWant\obj\Debug\net6.0\task08From1EvenNumberToWhutYouWant.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task08From1EvenNumberToWhutYouWant\obj\Debug\net6.0\task08From1EvenNumberToWhutYouWant.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task08From1EvenNumberToWhutYouWant\obj\Debug\net6.0\task08From1EvenNumberToWhutYouWant.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task08From1EvenNumberToWhutYouWant\obj\Debug\net6.0\task08From1EvenNumberToWhutYouWant.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task08From1EvenNumberToWhutYouWant\bin\Debug\net6.0\task08From1EvenNumberToWhutYouWant.exe
+D:\GitHub\C# practic\C#_practic\task08From1EvenNumberToWhutYouWant\bin\Debug\net6.0\task08From1EvenNumberToWhutYouWant.deps.json
+D:\GitHub\C# practic\C#_practic\task08From1EvenNumberToWhutYouWant\bin\Debug\net6.0\task08From1EvenNumberToWhutYouWant.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task08From1EvenNumberToWhutYouWant\bin\Debug\net6.0\task08From1EvenNumberToWhutYouWant.dll
+D:\GitHub\C# practic\C#_practic\task08From1EvenNumberToWhutYouWant\bin\Debug\net6.0\ref\task08From1EvenNumberToWhutYouWant.dll
+D:\GitHub\C# practic\C#_practic\task08From1EvenNumberToWhutYouWant\bin\Debug\net6.0\task08From1EvenNumberToWhutYouWant.pdb
+D:\GitHub\C# practic\C#_practic\task08From1EvenNumberToWhutYouWant\obj\Debug\net6.0\task08From1EvenNumberToWhutYouWant.dll
+D:\GitHub\C# practic\C#_practic\task08From1EvenNumberToWhutYouWant\obj\Debug\net6.0\ref\task08From1EvenNumberToWhutYouWant.dll
+D:\GitHub\C# practic\C#_practic\task08From1EvenNumberToWhutYouWant\obj\Debug\net6.0\task08From1EvenNumberToWhutYouWant.pdb
+D:\GitHub\C# practic\C#_practic\task08From1EvenNumberToWhutYouWant\obj\Debug\net6.0\task08From1EvenNumberToWhutYouWant.genruntimeconfig.cache

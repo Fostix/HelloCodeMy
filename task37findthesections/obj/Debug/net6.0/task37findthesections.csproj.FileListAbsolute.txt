@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task37findthesections\obj\Debug\net6.0\task37findthesections.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task37findthesections\obj\Debug\net6.0\task37findthesections.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task37findthesections\obj\Debug\net6.0\task37findthesections.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task37findthesections\obj\Debug\net6.0\task37findthesections.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task37findthesections\obj\Debug\net6.0\task37findthesections.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task37findthesections\bin\Debug\net6.0\task37findthesections.exe
+D:\GitHub\C# practic\C#_practic\task37findthesections\bin\Debug\net6.0\task37findthesections.deps.json
+D:\GitHub\C# practic\C#_practic\task37findthesections\bin\Debug\net6.0\task37findthesections.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task37findthesections\bin\Debug\net6.0\task37findthesections.dll
+D:\GitHub\C# practic\C#_practic\task37findthesections\bin\Debug\net6.0\ref\task37findthesections.dll
+D:\GitHub\C# practic\C#_practic\task37findthesections\bin\Debug\net6.0\task37findthesections.pdb
+D:\GitHub\C# practic\C#_practic\task37findthesections\obj\Debug\net6.0\task37findthesections.dll
+D:\GitHub\C# practic\C#_practic\task37findthesections\obj\Debug\net6.0\ref\task37findthesections.dll
+D:\GitHub\C# practic\C#_practic\task37findthesections\obj\Debug\net6.0\task37findthesections.pdb
+D:\GitHub\C# practic\C#_practic\task37findthesections\obj\Debug\net6.0\task37findthesections.genruntimeconfig.cache

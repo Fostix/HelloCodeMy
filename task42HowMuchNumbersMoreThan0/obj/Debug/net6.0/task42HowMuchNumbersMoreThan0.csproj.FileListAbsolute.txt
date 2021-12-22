@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task42HowMuchNumbersMoreThan0\bin\Debug\net6.0\task42HowMuchNumbersMoreThan0.exe
+D:\GitHub\C# practic\C#_practic\task42HowMuchNumbersMoreThan0\bin\Debug\net6.0\task42HowMuchNumbersMoreThan0.deps.json
+D:\GitHub\C# practic\C#_practic\task42HowMuchNumbersMoreThan0\bin\Debug\net6.0\task42HowMuchNumbersMoreThan0.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task42HowMuchNumbersMoreThan0\bin\Debug\net6.0\task42HowMuchNumbersMoreThan0.dll
+D:\GitHub\C# practic\C#_practic\task42HowMuchNumbersMoreThan0\bin\Debug\net6.0\ref\task42HowMuchNumbersMoreThan0.dll
+D:\GitHub\C# practic\C#_practic\task42HowMuchNumbersMoreThan0\bin\Debug\net6.0\task42HowMuchNumbersMoreThan0.pdb
+D:\GitHub\C# practic\C#_practic\task42HowMuchNumbersMoreThan0\obj\Debug\net6.0\task42HowMuchNumbersMoreThan0.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task42HowMuchNumbersMoreThan0\obj\Debug\net6.0\task42HowMuchNumbersMoreThan0.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task42HowMuchNumbersMoreThan0\obj\Debug\net6.0\task42HowMuchNumbersMoreThan0.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task42HowMuchNumbersMoreThan0\obj\Debug\net6.0\task42HowMuchNumbersMoreThan0.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task42HowMuchNumbersMoreThan0\obj\Debug\net6.0\task42HowMuchNumbersMoreThan0.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task42HowMuchNumbersMoreThan0\obj\Debug\net6.0\task42HowMuchNumbersMoreThan0.dll
+D:\GitHub\C# practic\C#_practic\task42HowMuchNumbersMoreThan0\obj\Debug\net6.0\ref\task42HowMuchNumbersMoreThan0.dll
+D:\GitHub\C# practic\C#_practic\task42HowMuchNumbersMoreThan0\obj\Debug\net6.0\task42HowMuchNumbersMoreThan0.pdb
+D:\GitHub\C# practic\C#_practic\task42HowMuchNumbersMoreThan0\obj\Debug\net6.0\task42HowMuchNumbersMoreThan0.genruntimeconfig.cache

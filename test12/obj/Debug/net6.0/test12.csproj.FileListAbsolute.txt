@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\test12\bin\Debug\net6.0\test12.exe
+D:\GitHub\C# practic\C#_practic\test12\bin\Debug\net6.0\test12.deps.json
+D:\GitHub\C# practic\C#_practic\test12\bin\Debug\net6.0\test12.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\test12\bin\Debug\net6.0\test12.dll
+D:\GitHub\C# practic\C#_practic\test12\bin\Debug\net6.0\ref\test12.dll
+D:\GitHub\C# practic\C#_practic\test12\bin\Debug\net6.0\test12.pdb
+D:\GitHub\C# practic\C#_practic\test12\obj\Debug\net6.0\test12.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\test12\obj\Debug\net6.0\test12.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\test12\obj\Debug\net6.0\test12.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\test12\obj\Debug\net6.0\test12.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\test12\obj\Debug\net6.0\test12.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\test12\obj\Debug\net6.0\test12.dll
+D:\GitHub\C# practic\C#_practic\test12\obj\Debug\net6.0\ref\test12.dll
+D:\GitHub\C# practic\C#_practic\test12\obj\Debug\net6.0\test12.pdb
+D:\GitHub\C# practic\C#_practic\test12\obj\Debug\net6.0\test12.genruntimeconfig.cache

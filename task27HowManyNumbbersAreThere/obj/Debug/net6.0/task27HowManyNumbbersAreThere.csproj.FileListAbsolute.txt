@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task27HowManyNumbbersAreThere\bin\Debug\net6.0\task27HowManyNumbbersAreThere.exe
+D:\GitHub\C# practic\C#_practic\task27HowManyNumbbersAreThere\bin\Debug\net6.0\task27HowManyNumbbersAreThere.deps.json
+D:\GitHub\C# practic\C#_practic\task27HowManyNumbbersAreThere\bin\Debug\net6.0\task27HowManyNumbbersAreThere.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task27HowManyNumbbersAreThere\bin\Debug\net6.0\task27HowManyNumbbersAreThere.dll
+D:\GitHub\C# practic\C#_practic\task27HowManyNumbbersAreThere\bin\Debug\net6.0\ref\task27HowManyNumbbersAreThere.dll
+D:\GitHub\C# practic\C#_practic\task27HowManyNumbbersAreThere\bin\Debug\net6.0\task27HowManyNumbbersAreThere.pdb
+D:\GitHub\C# practic\C#_practic\task27HowManyNumbbersAreThere\obj\Debug\net6.0\task27HowManyNumbbersAreThere.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task27HowManyNumbbersAreThere\obj\Debug\net6.0\task27HowManyNumbbersAreThere.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task27HowManyNumbbersAreThere\obj\Debug\net6.0\task27HowManyNumbbersAreThere.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task27HowManyNumbbersAreThere\obj\Debug\net6.0\task27HowManyNumbbersAreThere.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task27HowManyNumbbersAreThere\obj\Debug\net6.0\task27HowManyNumbbersAreThere.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task27HowManyNumbbersAreThere\obj\Debug\net6.0\task27HowManyNumbbersAreThere.dll
+D:\GitHub\C# practic\C#_practic\task27HowManyNumbbersAreThere\obj\Debug\net6.0\ref\task27HowManyNumbbersAreThere.dll
+D:\GitHub\C# practic\C#_practic\task27HowManyNumbbersAreThere\obj\Debug\net6.0\task27HowManyNumbbersAreThere.pdb
+D:\GitHub\C# practic\C#_practic\task27HowManyNumbbersAreThere\obj\Debug\net6.0\task27HowManyNumbbersAreThere.genruntimeconfig.cache

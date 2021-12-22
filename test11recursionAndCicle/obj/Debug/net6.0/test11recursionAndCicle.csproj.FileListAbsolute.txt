@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\test11recursionAndCicle\bin\Debug\net6.0\test11recursionAndCicle.exe
+D:\GitHub\C# practic\C#_practic\test11recursionAndCicle\bin\Debug\net6.0\test11recursionAndCicle.deps.json
+D:\GitHub\C# practic\C#_practic\test11recursionAndCicle\bin\Debug\net6.0\test11recursionAndCicle.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\test11recursionAndCicle\bin\Debug\net6.0\test11recursionAndCicle.dll
+D:\GitHub\C# practic\C#_practic\test11recursionAndCicle\bin\Debug\net6.0\ref\test11recursionAndCicle.dll
+D:\GitHub\C# practic\C#_practic\test11recursionAndCicle\bin\Debug\net6.0\test11recursionAndCicle.pdb
+D:\GitHub\C# practic\C#_practic\test11recursionAndCicle\obj\Debug\net6.0\test11recursionAndCicle.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\test11recursionAndCicle\obj\Debug\net6.0\test11recursionAndCicle.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\test11recursionAndCicle\obj\Debug\net6.0\test11recursionAndCicle.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\test11recursionAndCicle\obj\Debug\net6.0\test11recursionAndCicle.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\test11recursionAndCicle\obj\Debug\net6.0\test11recursionAndCicle.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\test11recursionAndCicle\obj\Debug\net6.0\test11recursionAndCicle.dll
+D:\GitHub\C# practic\C#_practic\test11recursionAndCicle\obj\Debug\net6.0\ref\test11recursionAndCicle.dll
+D:\GitHub\C# practic\C#_practic\test11recursionAndCicle\obj\Debug\net6.0\test11recursionAndCicle.pdb
+D:\GitHub\C# practic\C#_practic\test11recursionAndCicle\obj\Debug\net6.0\test11recursionAndCicle.genruntimeconfig.cache

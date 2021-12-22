@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task38FindSumNumbersWhichOddIndexInTheArray\bin\Debug\net6.0\task38FindSumNumbersWhichOddIndexInTheArray.exe
+D:\GitHub\C# practic\C#_practic\task38FindSumNumbersWhichOddIndexInTheArray\bin\Debug\net6.0\task38FindSumNumbersWhichOddIndexInTheArray.deps.json
+D:\GitHub\C# practic\C#_practic\task38FindSumNumbersWhichOddIndexInTheArray\bin\Debug\net6.0\task38FindSumNumbersWhichOddIndexInTheArray.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task38FindSumNumbersWhichOddIndexInTheArray\bin\Debug\net6.0\task38FindSumNumbersWhichOddIndexInTheArray.dll
+D:\GitHub\C# practic\C#_practic\task38FindSumNumbersWhichOddIndexInTheArray\bin\Debug\net6.0\ref\task38FindSumNumbersWhichOddIndexInTheArray.dll
+D:\GitHub\C# practic\C#_practic\task38FindSumNumbersWhichOddIndexInTheArray\bin\Debug\net6.0\task38FindSumNumbersWhichOddIndexInTheArray.pdb
+D:\GitHub\C# practic\C#_practic\task38FindSumNumbersWhichOddIndexInTheArray\obj\Debug\net6.0\task38FindSumNumbersWhichOddIndexInTheArray.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task38FindSumNumbersWhichOddIndexInTheArray\obj\Debug\net6.0\task38FindSumNumbersWhichOddIndexInTheArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task38FindSumNumbersWhichOddIndexInTheArray\obj\Debug\net6.0\task38FindSumNumbersWhichOddIndexInTheArray.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task38FindSumNumbersWhichOddIndexInTheArray\obj\Debug\net6.0\task38FindSumNumbersWhichOddIndexInTheArray.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task38FindSumNumbersWhichOddIndexInTheArray\obj\Debug\net6.0\task38FindSumNumbersWhichOddIndexInTheArray.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task38FindSumNumbersWhichOddIndexInTheArray\obj\Debug\net6.0\task38FindSumNumbersWhichOddIndexInTheArray.dll
+D:\GitHub\C# practic\C#_practic\task38FindSumNumbersWhichOddIndexInTheArray\obj\Debug\net6.0\ref\task38FindSumNumbersWhichOddIndexInTheArray.dll
+D:\GitHub\C# practic\C#_practic\task38FindSumNumbersWhichOddIndexInTheArray\obj\Debug\net6.0\task38FindSumNumbersWhichOddIndexInTheArray.pdb
+D:\GitHub\C# practic\C#_practic\task38FindSumNumbersWhichOddIndexInTheArray\obj\Debug\net6.0\task38FindSumNumbersWhichOddIndexInTheArray.genruntimeconfig.cache

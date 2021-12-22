@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\testRecursiom\bin\Debug\net6.0\testRecursiom.exe
+D:\GitHub\C# practic\C#_practic\testRecursiom\bin\Debug\net6.0\testRecursiom.deps.json
+D:\GitHub\C# practic\C#_practic\testRecursiom\bin\Debug\net6.0\testRecursiom.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\testRecursiom\bin\Debug\net6.0\testRecursiom.dll
+D:\GitHub\C# practic\C#_practic\testRecursiom\bin\Debug\net6.0\ref\testRecursiom.dll
+D:\GitHub\C# practic\C#_practic\testRecursiom\bin\Debug\net6.0\testRecursiom.pdb
+D:\GitHub\C# practic\C#_practic\testRecursiom\obj\Debug\net6.0\testRecursiom.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\testRecursiom\obj\Debug\net6.0\testRecursiom.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\testRecursiom\obj\Debug\net6.0\testRecursiom.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\testRecursiom\obj\Debug\net6.0\testRecursiom.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\testRecursiom\obj\Debug\net6.0\testRecursiom.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\testRecursiom\obj\Debug\net6.0\testRecursiom.dll
+D:\GitHub\C# practic\C#_practic\testRecursiom\obj\Debug\net6.0\ref\testRecursiom.dll
+D:\GitHub\C# practic\C#_practic\testRecursiom\obj\Debug\net6.0\testRecursiom.pdb
+D:\GitHub\C# practic\C#_practic\testRecursiom\obj\Debug\net6.0\testRecursiom.genruntimeconfig.cache
