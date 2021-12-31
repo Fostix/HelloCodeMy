@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task57SortArrayEveryRow\obj\Debug\net6.0\task57SortArrayEveryRow.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task57SortArrayEveryRow\obj\Debug\net6.0\task57SortArrayEveryRow.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task57SortArrayEveryRow\obj\Debug\net6.0\task57SortArrayEveryRow.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task57SortArrayEveryRow\obj\Debug\net6.0\task57SortArrayEveryRow.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task57SortArrayEveryRow\obj\Debug\net6.0\task57SortArrayEveryRow.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task57SortArrayEveryRow\bin\Debug\net6.0\task57SortArrayEveryRow.exe
+D:\GitHub\C# practic\C#_practic\task57SortArrayEveryRow\bin\Debug\net6.0\task57SortArrayEveryRow.deps.json
+D:\GitHub\C# practic\C#_practic\task57SortArrayEveryRow\bin\Debug\net6.0\task57SortArrayEveryRow.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task57SortArrayEveryRow\bin\Debug\net6.0\task57SortArrayEveryRow.dll
+D:\GitHub\C# practic\C#_practic\task57SortArrayEveryRow\bin\Debug\net6.0\ref\task57SortArrayEveryRow.dll
+D:\GitHub\C# practic\C#_practic\task57SortArrayEveryRow\bin\Debug\net6.0\task57SortArrayEveryRow.pdb
+D:\GitHub\C# practic\C#_practic\task57SortArrayEveryRow\obj\Debug\net6.0\task57SortArrayEveryRow.dll
+D:\GitHub\C# practic\C#_practic\task57SortArrayEveryRow\obj\Debug\net6.0\ref\task57SortArrayEveryRow.dll
+D:\GitHub\C# practic\C#_practic\task57SortArrayEveryRow\obj\Debug\net6.0\task57SortArrayEveryRow.pdb
+D:\GitHub\C# practic\C#_practic\task57SortArrayEveryRow\obj\Debug\net6.0\task57SortArrayEveryRow.genruntimeconfig.cache

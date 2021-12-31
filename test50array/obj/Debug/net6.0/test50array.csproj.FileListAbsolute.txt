@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\test50array\bin\Debug\net6.0\test50array.exe
+D:\GitHub\C# practic\C#_practic\test50array\bin\Debug\net6.0\test50array.deps.json
+D:\GitHub\C# practic\C#_practic\test50array\bin\Debug\net6.0\test50array.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\test50array\bin\Debug\net6.0\test50array.dll
+D:\GitHub\C# practic\C#_practic\test50array\bin\Debug\net6.0\ref\test50array.dll
+D:\GitHub\C# practic\C#_practic\test50array\bin\Debug\net6.0\test50array.pdb
+D:\GitHub\C# practic\C#_practic\test50array\obj\Debug\net6.0\test50array.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\test50array\obj\Debug\net6.0\test50array.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\test50array\obj\Debug\net6.0\test50array.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\test50array\obj\Debug\net6.0\test50array.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\test50array\obj\Debug\net6.0\test50array.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\test50array\obj\Debug\net6.0\test50array.dll
+D:\GitHub\C# practic\C#_practic\test50array\obj\Debug\net6.0\ref\test50array.dll
+D:\GitHub\C# practic\C#_practic\test50array\obj\Debug\net6.0\test50array.pdb
+D:\GitHub\C# practic\C#_practic\test50array\obj\Debug\net6.0\test50array.genruntimeconfig.cache

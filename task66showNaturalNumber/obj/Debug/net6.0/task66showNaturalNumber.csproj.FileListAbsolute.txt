@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task66showNaturalNumber\obj\Debug\net6.0\task66showNaturalNumber.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task66showNaturalNumber\obj\Debug\net6.0\task66showNaturalNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task66showNaturalNumber\obj\Debug\net6.0\task66showNaturalNumber.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task66showNaturalNumber\obj\Debug\net6.0\task66showNaturalNumber.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task66showNaturalNumber\obj\Debug\net6.0\task66showNaturalNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task66showNaturalNumber\bin\Debug\net6.0\task66showNaturalNumber.exe
+D:\GitHub\C# practic\C#_practic\task66showNaturalNumber\bin\Debug\net6.0\task66showNaturalNumber.deps.json
+D:\GitHub\C# practic\C#_practic\task66showNaturalNumber\bin\Debug\net6.0\task66showNaturalNumber.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task66showNaturalNumber\bin\Debug\net6.0\task66showNaturalNumber.dll
+D:\GitHub\C# practic\C#_practic\task66showNaturalNumber\bin\Debug\net6.0\ref\task66showNaturalNumber.dll
+D:\GitHub\C# practic\C#_practic\task66showNaturalNumber\bin\Debug\net6.0\task66showNaturalNumber.pdb
+D:\GitHub\C# practic\C#_practic\task66showNaturalNumber\obj\Debug\net6.0\task66showNaturalNumber.dll
+D:\GitHub\C# practic\C#_practic\task66showNaturalNumber\obj\Debug\net6.0\ref\task66showNaturalNumber.dll
+D:\GitHub\C# practic\C#_practic\task66showNaturalNumber\obj\Debug\net6.0\task66showNaturalNumber.pdb
+D:\GitHub\C# practic\C#_practic\task66showNaturalNumber\obj\Debug\net6.0\task66showNaturalNumber.genruntimeconfig.cache
