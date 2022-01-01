@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task69FoundSumElemented\obj\Debug\net6.0\task69FoundSumElemented.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task69FoundSumElemented\obj\Debug\net6.0\task69FoundSumElemented.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task69FoundSumElemented\obj\Debug\net6.0\task69FoundSumElemented.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task69FoundSumElemented\obj\Debug\net6.0\task69FoundSumElemented.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task69FoundSumElemented\obj\Debug\net6.0\task69FoundSumElemented.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task69FoundSumElemented\bin\Debug\net6.0\task69FoundSumElemented.exe
+D:\GitHub\C# practic\C#_practic\task69FoundSumElemented\bin\Debug\net6.0\task69FoundSumElemented.deps.json
+D:\GitHub\C# practic\C#_practic\task69FoundSumElemented\bin\Debug\net6.0\task69FoundSumElemented.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task69FoundSumElemented\bin\Debug\net6.0\task69FoundSumElemented.dll
+D:\GitHub\C# practic\C#_practic\task69FoundSumElemented\bin\Debug\net6.0\ref\task69FoundSumElemented.dll
+D:\GitHub\C# practic\C#_practic\task69FoundSumElemented\bin\Debug\net6.0\task69FoundSumElemented.pdb
+D:\GitHub\C# practic\C#_practic\task69FoundSumElemented\obj\Debug\net6.0\task69FoundSumElemented.dll
+D:\GitHub\C# practic\C#_practic\task69FoundSumElemented\obj\Debug\net6.0\ref\task69FoundSumElemented.dll
+D:\GitHub\C# practic\C#_practic\task69FoundSumElemented\obj\Debug\net6.0\task69FoundSumElemented.pdb
+D:\GitHub\C# practic\C#_practic\task69FoundSumElemented\obj\Debug\net6.0\task69FoundSumElemented.genruntimeconfig.cache

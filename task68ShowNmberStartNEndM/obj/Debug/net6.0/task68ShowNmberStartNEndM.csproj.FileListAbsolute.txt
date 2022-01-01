@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task68ShowNmberStartNEndM\bin\Debug\net6.0\task68ShowNmberStartNEndM.exe
+D:\GitHub\C# practic\C#_practic\task68ShowNmberStartNEndM\bin\Debug\net6.0\task68ShowNmberStartNEndM.deps.json
+D:\GitHub\C# practic\C#_practic\task68ShowNmberStartNEndM\bin\Debug\net6.0\task68ShowNmberStartNEndM.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task68ShowNmberStartNEndM\bin\Debug\net6.0\task68ShowNmberStartNEndM.dll
+D:\GitHub\C# practic\C#_practic\task68ShowNmberStartNEndM\bin\Debug\net6.0\ref\task68ShowNmberStartNEndM.dll
+D:\GitHub\C# practic\C#_practic\task68ShowNmberStartNEndM\bin\Debug\net6.0\task68ShowNmberStartNEndM.pdb
+D:\GitHub\C# practic\C#_practic\task68ShowNmberStartNEndM\obj\Debug\net6.0\task68ShowNmberStartNEndM.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task68ShowNmberStartNEndM\obj\Debug\net6.0\task68ShowNmberStartNEndM.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task68ShowNmberStartNEndM\obj\Debug\net6.0\task68ShowNmberStartNEndM.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task68ShowNmberStartNEndM\obj\Debug\net6.0\task68ShowNmberStartNEndM.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task68ShowNmberStartNEndM\obj\Debug\net6.0\task68ShowNmberStartNEndM.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task68ShowNmberStartNEndM\obj\Debug\net6.0\task68ShowNmberStartNEndM.dll
+D:\GitHub\C# practic\C#_practic\task68ShowNmberStartNEndM\obj\Debug\net6.0\ref\task68ShowNmberStartNEndM.dll
+D:\GitHub\C# practic\C#_practic\task68ShowNmberStartNEndM\obj\Debug\net6.0\task68ShowNmberStartNEndM.pdb
+D:\GitHub\C# practic\C#_practic\task68ShowNmberStartNEndM\obj\Debug\net6.0\task68ShowNmberStartNEndM.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task74alfabet\bin\Debug\net6.0\task74alfabet.exe
+D:\GitHub\C# practic\C#_practic\task74alfabet\bin\Debug\net6.0\task74alfabet.deps.json
+D:\GitHub\C# practic\C#_practic\task74alfabet\bin\Debug\net6.0\task74alfabet.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task74alfabet\bin\Debug\net6.0\task74alfabet.dll
+D:\GitHub\C# practic\C#_practic\task74alfabet\bin\Debug\net6.0\ref\task74alfabet.dll
+D:\GitHub\C# practic\C#_practic\task74alfabet\bin\Debug\net6.0\task74alfabet.pdb
+D:\GitHub\C# practic\C#_practic\task74alfabet\obj\Debug\net6.0\task74alfabet.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task74alfabet\obj\Debug\net6.0\task74alfabet.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task74alfabet\obj\Debug\net6.0\task74alfabet.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task74alfabet\obj\Debug\net6.0\task74alfabet.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task74alfabet\obj\Debug\net6.0\task74alfabet.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task74alfabet\obj\Debug\net6.0\task74alfabet.dll
+D:\GitHub\C# practic\C#_practic\task74alfabet\obj\Debug\net6.0\ref\task74alfabet.dll
+D:\GitHub\C# practic\C#_practic\task74alfabet\obj\Debug\net6.0\task74alfabet.pdb
+D:\GitHub\C# practic\C#_practic\task74alfabet\obj\Debug\net6.0\task74alfabet.genruntimeconfig.cache

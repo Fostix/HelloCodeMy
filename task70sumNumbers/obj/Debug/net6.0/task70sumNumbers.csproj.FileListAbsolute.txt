@@ -1,0 +1,15 @@
+D:\GitHub\C# practic\C#_practic\task70sumNumbers\obj\Debug\net6.0\task70sumNumbers.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\task70sumNumbers\obj\Debug\net6.0\task70sumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\task70sumNumbers\obj\Debug\net6.0\task70sumNumbers.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\task70sumNumbers\obj\Debug\net6.0\task70sumNumbers.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\task70sumNumbers\obj\Debug\net6.0\task70sumNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\C# practic\C#_practic\task70sumNumbers\bin\Debug\net6.0\task70sumNumbers.exe
+D:\GitHub\C# practic\C#_practic\task70sumNumbers\bin\Debug\net6.0\task70sumNumbers.deps.json
+D:\GitHub\C# practic\C#_practic\task70sumNumbers\bin\Debug\net6.0\task70sumNumbers.runtimeconfig.json
+D:\GitHub\C# practic\C#_practic\task70sumNumbers\bin\Debug\net6.0\task70sumNumbers.dll
+D:\GitHub\C# practic\C#_practic\task70sumNumbers\bin\Debug\net6.0\ref\task70sumNumbers.dll
+D:\GitHub\C# practic\C#_practic\task70sumNumbers\bin\Debug\net6.0\task70sumNumbers.pdb
+D:\GitHub\C# practic\C#_practic\task70sumNumbers\obj\Debug\net6.0\task70sumNumbers.dll
+D:\GitHub\C# practic\C#_practic\task70sumNumbers\obj\Debug\net6.0\ref\task70sumNumbers.dll
+D:\GitHub\C# practic\C#_practic\task70sumNumbers\obj\Debug\net6.0\task70sumNumbers.pdb
+D:\GitHub\C# practic\C#_practic\task70sumNumbers\obj\Debug\net6.0\task70sumNumbers.genruntimeconfig.cache

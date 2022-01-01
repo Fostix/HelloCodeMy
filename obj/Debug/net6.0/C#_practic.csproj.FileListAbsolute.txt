@@ -1,0 +1,5 @@
+D:\GitHub\C# practic\C#_practic\obj\Debug\net6.0\C#_practic.csproj.AssemblyReference.cache
+D:\GitHub\C# practic\C#_practic\obj\Debug\net6.0\C#_practic.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\C# practic\C#_practic\obj\Debug\net6.0\C#_practic.AssemblyInfoInputs.cache
+D:\GitHub\C# practic\C#_practic\obj\Debug\net6.0\C#_practic.AssemblyInfo.cs
+D:\GitHub\C# practic\C#_practic\obj\Debug\net6.0\C#_practic.csproj.CoreCompileInputs.cache
