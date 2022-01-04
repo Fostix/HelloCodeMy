@@ -10,8 +10,10 @@ int RecursionMinus(int finish)
     {
         return finish;
     }
-    Console.Write(RecursionMinus(finish - 1) + " ");
+    Console.Write(finish);
+    RecursionMinus(finish - 1);
     return finish;
 }
 
-RecursionMinus(finish + 1);
+RecursionMinus(finish);
+
